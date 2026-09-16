@@ -152,7 +152,8 @@
     var go = document.getElementById('go-today');
     if (go) go.onclick = function (e) {
       e.preventDefault();
-      (info.li || info.wrap || anchor).scrollIntoView({ behavior: 'smooth', block: 'center' });
+      var t = info.li || info.wrap || anchor;
+      window.scrollTo(0, t.getBoundingClientRect().top + window.scrollY - window.innerHeight / 2);
     };
   } else if (document.body.dataset.page !== 'none' && main.querySelector('a[href*="plan-sub20-5km"]')) {
     var url = main.querySelector('a[href*="plan-sub20-5km"]').getAttribute('href');
