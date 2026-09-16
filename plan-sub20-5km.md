@@ -2,11 +2,12 @@
 
 ## 1. Punto de partida (datos de los .fit)
 
-| Sesión | Fecha | Tiempo | Ritmo medio | FC media / máx | Desnivel + |
+| Sesión | Fecha | Tiempo | Ritmo medio / distancia | FC media / máx | Desnivel + |
 |---|---|---|---|---|---|
 | 5 km al máximo | 09/09 | 22:27 | 4:29 /km | 181 / 198 | 137 m |
 | 5 km tranquilo (con Pedro) | 15/09 | 30:01 | 6:00 /km | 147 / 160 | 77 m |
-| Híbrido (EMOM + AMRAP) | 11/09 | 1 h 36' | — | 157 / 199 | — |
+| Híbrido (EMOM + AMRAP) | 11/09 (16:50) | 43' | 2,8 km | 173 / 197 | — |
+| Pachangas (fútbol) | 11/09 (19:05) | 1 h 36' | 5,0 km | 157 / 199 | — |
 
 Parciales del 5 km al máximo: **4:37 · 4:20 · 4:26 · 4:48 · 4:15**
 
@@ -21,6 +22,14 @@ Lo que dicen los datos:
   - Z2 suave: **< 150 ppm**
   - Umbral: **172–182 ppm**
   - VO2max: **> 185 ppm**
+
+### El viernes (híbrido + pachangas)
+
+- **Híbrido**: 43' con FC media 173. El **68 %** del tiempo por encima de 172 ppm (umbral o más).
+- **Pachangas**: 5 km en total, ~4 km en la primera hora de juego y el resto casi parado (últimos 34' a FC 121).
+  - En esa hora de juego, la FC media fue **168–185** según el tramo, y un **31 %** del tiempo por encima de 185 ppm (zona VO2max).
+  - Velocidad máxima: **23,7 km/h**. Unos 4 km por hora en un campo pequeño es normal: muchos cambios de ritmo, arranques y frenadas.
+- **Conclusión**: el viernes son unas **2 h de intensidad alta** y equivale a dos sesiones duras. Por eso el plan deja suave el jueves y el sábado.
 
 ## 2. Ritmos de entrenamiento (revisar tras cada test)
 
@@ -67,86 +76,92 @@ Lo que dicen los datos:
 
 | Día | Sesión |
 |---|---|
-| Lunes | Rodaje suave + 6 strides · calistenia (tren superior + core) |
-| Martes | **Calidad 1: series** (VO2max) |
-| Miércoles | Calistenia o descanso (sin piernas pesadas) |
-| Jueves | **Calidad 2: tempo/umbral** |
+| Lunes | **Calidad 1: series** (VO2max) |
+| Martes | Rodaje suave + 6 strides · calistenia (tren superior + core) |
+| Miércoles | **Calidad 2: tempo/umbral** |
+| Jueves | Calistenia sin piernas pesadas, o 30' muy suaves |
 | Viernes | **Híbrido (16:30) + pachangas (19:00)**: el día más cargado |
 | Sábado | Descanso, o 20–30' muy suave si tienes las piernas bien |
 | Domingo | **Tirada larga suave** |
 
-- **4 días de carrera** (lunes, martes, jueves y domingo) más el híbrido y las pachangas del viernes, que ya son una sesión dura.
-- El viernes cuenta como sesión de calidad, así que **no hace falta hacer nada más intenso ese día**. En las pachangas, juega a gusto pero sin forzar si esa semana vas cargado.
-- El sábado es para recuperar del viernes: la tirada larga pasa al **domingo**.
-- Nunca pongas pierna pesada (trineo, sentadillas, wall balls) **el día antes de una sesión de series**. Por eso el miércoles no lleva piernas.
+- **4 días de carrera** (lunes, martes, miércoles y domingo) más el viernes.
+- **Por qué este orden:** los datos muestran que el viernes son ~2 h de alta intensidad (ver apartado 1). Por eso el jueves es suave: llegas al viernes fresco y no metes tres días duros seguidos.
+- El viernes ya cuenta como **dos sesiones duras**. No hace falta añadir nada más.
+- El sábado es para recuperar del viernes: la tirada larga va el **domingo**, y el lunes llegas con piernas para las series.
 
 ## 4. Plan semana a semana
 
 Calentamiento en las sesiones de calidad: 12–15' suave + movilidad dinámica + 4 strides. Enfriamiento: 8–10' suave.
 
 ### Semana 0 · 16–20 sept (adaptación)
-- Jue: rodaje 30' Z2 + 4 strides
+- Jue: 30' Z2 + 4 strides
 - Vie: híbrido + pachangas
 - Dom: 40' Z2
 
 ### Semana 1 · 21–27 sept (base + primeras series)
-- Lun: 30' Z2 + 6 strides
-- Mar: 6×400 m a 3:50 /km, recuperación 200 m trotando
-- Jue: 35' Z2 (todavía sin tempo)
+- Lun: 6×400 m a 3:50 /km, rec. 200 m trotando
+- Mar: 30' Z2 + 6 strides
+- Mié: 35' Z2 (todavía sin tempo)
+- Jue: calistenia o descanso
 - Vie: híbrido + pachangas
 - Dom: 50' Z2
-- **Volumen ≈ 28–30 km**
+- **Volumen ≈ 28–30 km** (contando los ~5 km de las pachangas)
 
 ### Semana 2 · 28 sept–4 oct (⚠️ carrera MEGA Hyathlon el sáb 3/10)
-- Lun: 30' Z2 + 4 strides
-- Mar: 5×800 m a 4:05, rec. 2'
-- Jue: 20' muy suave + 3 strides
+- Lun: 5×800 m a 4:05, rec. 2'
+- Mar: 30' Z2 + 4 strides
+- Mié: 20' muy suave + 3 strides
+- Jue: descanso
 - **Vie: sin híbrido.** Pachangas solo si juegas suave, mejor saltártelas
 - **Sáb: carrera MEGA Hyathlon**
 - Dom: descanso o 30' muy suave
 - **Volumen ≈ 20–25 km**
 
 ### Semana 3 · 5–11 oct (umbral)
-- Lun: 40' Z2 + 6 strides
-- Mar: 8×400 m a 3:48, rec. 200 m
-- Jue: tempo 3×8' a 4:25, rec. 2'
+- Lun: 8×400 m a 3:48, rec. 200 m
+- Mar: 40' Z2 + 6 strides
+- Mié: tempo 3×8' a 4:25, rec. 2'
+- Jue: calistenia o 30' muy suave
 - Vie: híbrido (sin trineo pesado) + pachangas
 - Dom: 55' Z2
-- **Volumen ≈ 33 km**
+- **Volumen ≈ 35 km**
 
 ### Semana 4 · 12–18 oct (carga + TEST)
-- Lun: 40' Z2 + 6 strides
-- Mar: 5×1000 m a 4:05, rec. 2'30"
-- Jue: 30' Z2 + 4 strides (sin tempo esta semana, por el test)
+- Lun: 5×1000 m a 4:05, rec. 2'30"
+- Mar: 40' Z2 + 6 strides
+- Mié: 30' Z2 + 4 strides (sin tempo esta semana, por el test)
+- Jue: calistenia o descanso
 - **Vie: híbrido ligero o solo pachangas** (no las dos cosas a tope)
 - Sáb: descanso o 15' muy suave + 3 strides
 - **Dom 18: TEST 5 km en llano**. Objetivo ≤ 21:15. Salida a 4:15 y apretar desde el km 3.
-- **Volumen ≈ 28 km**
+- **Volumen ≈ 30 km**
 
 ### Semana 5 · 19–25 oct (ritmo objetivo)
 - Lun: 40' muy suave (piernas del test)
-- Mar: 6×1000 m a 4:00, rec. 2'
-- Jue: tempo 20' continuos a 4:15
+- Mar: 6×1000 m a 4:00, rec. 2' (se mueve al martes por el test del domingo)
+- Mié: 30' Z2 + 4 strides
+- Jue: calistenia o descanso
 - Vie: híbrido + pachangas
-- Dom: 60' Z2 (últimos 10' a 5:00)
-- **Volumen ≈ 34 km (semana más dura)**
+- Dom: 60' con **20' a 4:15 en el medio** (tempo metido en la tirada larga)
+- **Volumen ≈ 36 km (semana más dura)**
 
 ### Semana 6 · 26 oct–1 nov (afinar)
-- Lun: 40' Z2 + 6 strides
-- Mar: 3×1600 m a 3:58, rec. 3'
-- Jue: 2 km a 4:00 + 3' suave + 2×1 km a 3:55, rec. 2'
+- Lun: 3×1600 m a 3:58, rec. 3'
+- Mar: 40' Z2 + 6 strides
+- Mié: 2 km a 4:00 + 3' suave + 2×1 km a 3:55, rec. 2'
+- Jue: calistenia o descanso
 - Vie: híbrido corto (40') + pachangas suaves
 - Dom: 45' Z2
-- **Volumen ≈ 32 km**
+- **Volumen ≈ 33 km**
 
 ### Semana 7 · 2–8 nov (puesta a punto)
-- Lun: 30' Z2 + 4 strides · calistenia muy ligera (nada de piernas)
-- Mar: 4×1000 m a 4:00, rec. 2'
-- Mié: 30' Z2 + 4 strides
-- Jue: 3×400 m a 3:50 + 15' suave
+- Lun: 4×1000 m a 4:00, rec. 2'
+- Mar: 30' Z2 + 4 strides · calistenia muy ligera (nada de piernas)
+- Mié: 3×400 m a 3:50 + 15' suave
+- Jue: 20' muy suave + 3 strides
 - **Vie 6: sin híbrido y sin pachangas.** Descanso o 15' suave + 3 strides
 - **Sáb 7 / Dom 8: 5 km en ~20:00**
-- **Volumen ≈ 20 km (sin contar la prueba)**
+- **Volumen ≈ 18 km (sin contar la prueba)**
 
 > **Si la strong race cae en domingo 8**: el viernes, descanso total, y el sábado 15' muy suave + 3 strides. Aunque sea el domingo, **ese viernes tampoco hay híbrido ni pachangas**.
 
