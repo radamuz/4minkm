@@ -67,82 +67,88 @@ Lo que dicen los datos:
 
 | Día | Sesión |
 |---|---|
-| Lunes | Calistenia (tren superior + core) |
+| Lunes | Rodaje suave + 6 strides · calistenia (tren superior + core) |
 | Martes | **Calidad 1: series** (VO2max) |
-| Miércoles | Rodaje suave + 6 strides |
-| Jueves | **Calidad 2: tempo/umbral** o **híbrido** (alternar semanas) |
-| Viernes | Descanso o movilidad |
-| Sábado | **Tirada larga suave** |
-| Domingo | Calistenia ligera / híbrido suave / descanso |
+| Miércoles | Calistenia o descanso (sin piernas pesadas) |
+| Jueves | **Calidad 2: tempo/umbral** |
+| Viernes | **Híbrido (16:30) + pachangas (19:00)**: el día más cargado |
+| Sábado | Descanso, o 20–30' muy suave si tienes las piernas bien |
+| Domingo | **Tirada larga suave** |
 
-- **4 días de carrera** (sube de 2–3 a 4) y **1 híbrido** por semana, que tienes carreras híbridas.
-- Nunca pongas pierna pesada (trineo, sentadillas, wall balls) **el día antes de una sesión de series**.
+- **4 días de carrera** (lunes, martes, jueves y domingo) más el híbrido y las pachangas del viernes, que ya son una sesión dura.
+- El viernes cuenta como sesión de calidad, así que **no hace falta hacer nada más intenso ese día**. En las pachangas, juega a gusto pero sin forzar si esa semana vas cargado.
+- El sábado es para recuperar del viernes: la tirada larga pasa al **domingo**.
+- Nunca pongas pierna pesada (trineo, sentadillas, wall balls) **el día antes de una sesión de series**. Por eso el miércoles no lleva piernas.
 
 ## 4. Plan semana a semana
 
 Calentamiento en las sesiones de calidad: 12–15' suave + movilidad dinámica + 4 strides. Enfriamiento: 8–10' suave.
 
 ### Semana 0 · 16–20 sept (adaptación)
-- Mié/Jue: rodaje 30' Z2 + 4 strides
-- Sáb: 40' Z2
+- Jue: rodaje 30' Z2 + 4 strides
+- Vie: híbrido + pachangas
+- Dom: 40' Z2
 
 ### Semana 1 · 21–27 sept (base + primeras series)
+- Lun: 30' Z2 + 6 strides
 - Mar: 6×400 m a 3:50 /km, recuperación 200 m trotando
-- Mié: 35' Z2 + 6 strides
-- Jue: híbrido
-- Sáb: 50' Z2
+- Jue: 35' Z2 (todavía sin tempo)
+- Vie: híbrido + pachangas
+- Dom: 50' Z2
 - **Volumen ≈ 28–30 km**
 
 ### Semana 2 · 28 sept–4 oct (⚠️ carrera MEGA Hyathlon el sáb 3/10)
+- Lun: 30' Z2 + 4 strides
 - Mar: 5×800 m a 4:05, rec. 2'
-- Mié: 30' Z2 + 4 strides
-- Jue: descanso o 20' muy suave
+- Jue: 20' muy suave + 3 strides
+- **Vie: sin híbrido.** Pachangas solo si juegas suave, mejor saltártelas
 - **Sáb: carrera MEGA Hyathlon**
-- Dom: 30' muy suave o descanso
-- **Volumen ≈ 25 km**
+- Dom: descanso o 30' muy suave
+- **Volumen ≈ 20–25 km**
 
 ### Semana 3 · 5–11 oct (umbral)
+- Lun: 40' Z2 + 6 strides
 - Mar: 8×400 m a 3:48, rec. 200 m
-- Mié: 40' Z2 + 6 strides
 - Jue: tempo 3×8' a 4:25, rec. 2'
-- Sáb: 55' Z2
-- Dom: híbrido suave (sin trineo pesado)
+- Vie: híbrido (sin trineo pesado) + pachangas
+- Dom: 55' Z2
 - **Volumen ≈ 33 km**
 
 ### Semana 4 · 12–18 oct (carga + TEST)
+- Lun: 40' Z2 + 6 strides
 - Mar: 5×1000 m a 4:05, rec. 2'30"
-- Mié: 40' Z2 + 6 strides
-- Jue: híbrido
-- **Sáb: TEST 5 km en llano**. Objetivo ≤ 21:15. Salida a 4:15 y apretar desde el km 3.
-- Dom: 40' muy suave
-- **Volumen ≈ 32 km**
+- Jue: 30' Z2 + 4 strides (sin tempo esta semana, por el test)
+- **Vie: híbrido ligero o solo pachangas** (no las dos cosas a tope)
+- Sáb: descanso o 15' muy suave + 3 strides
+- **Dom 18: TEST 5 km en llano**. Objetivo ≤ 21:15. Salida a 4:15 y apretar desde el km 3.
+- **Volumen ≈ 28 km**
 
 ### Semana 5 · 19–25 oct (ritmo objetivo)
+- Lun: 40' muy suave (piernas del test)
 - Mar: 6×1000 m a 4:00, rec. 2'
-- Mié: 45' Z2 + 6 strides
 - Jue: tempo 20' continuos a 4:15
-- Sáb: 60' Z2 (últimos 10' a 5:00)
-- Dom: calistenia / híbrido suave
-- **Volumen ≈ 36 km (semana más dura)**
+- Vie: híbrido + pachangas
+- Dom: 60' Z2 (últimos 10' a 5:00)
+- **Volumen ≈ 34 km (semana más dura)**
 
 ### Semana 6 · 26 oct–1 nov (afinar)
+- Lun: 40' Z2 + 6 strides
 - Mar: 3×1600 m a 3:58, rec. 3'
-- Mié: 40' Z2 + 6 strides
-- Jue: híbrido corto (40') o 10×200 m a 3:30, rec. 200 m
-- Sáb: 2 km a 4:00 + 3' suave + 2×1 km a 3:55, rec. 2'
+- Jue: 2 km a 4:00 + 3' suave + 2×1 km a 3:55, rec. 2'
+- Vie: híbrido corto (40') + pachangas suaves
 - Dom: 45' Z2
 - **Volumen ≈ 32 km**
 
 ### Semana 7 · 2–8 nov (puesta a punto)
-- Lun: calistenia muy ligera (nada de piernas)
+- Lun: 30' Z2 + 4 strides · calistenia muy ligera (nada de piernas)
 - Mar: 4×1000 m a 4:00, rec. 2'
 - Mié: 30' Z2 + 4 strides
-- Jue: 3×400 m a 3:50 + 20' suave
-- Vie: descanso o 15' suave + 3 strides
+- Jue: 3×400 m a 3:50 + 15' suave
+- **Vie 6: sin híbrido y sin pachangas.** Descanso o 15' suave + 3 strides
 - **Sáb 7 / Dom 8: 5 km en ~20:00**
 - **Volumen ≈ 20 km (sin contar la prueba)**
 
-> **Si la strong race cae en domingo 8**: el viernes pasa a ser 15' suave + 3 strides y el sábado queda de descanso (o 10' muy suave + 3 strides).
+> **Si la strong race cae en domingo 8**: el viernes, descanso total, y el sábado 15' muy suave + 3 strides. Aunque sea el domingo, **ese viernes tampoco hay híbrido ni pachangas**.
 
 ## 5. Estrategia del día D
 
@@ -160,7 +166,7 @@ Calentamiento en las sesiones de calidad: 12–15' suave + movilidad dinámica +
 
 ## 7. Seguimiento
 
-Sube cada .fit a `entrenos-realizados-fits/` y se ajustan los ritmos tras el **test del 17/10**:
+Sube cada .fit a `entrenos-realizados-fits/` y se ajustan los ritmos tras el **test del domingo 18/10**:
 
 - ≤ 21:00 → mantener el plan.
 - 21:00–21:30 → el sub-20 es exigente; apuntar a 20:15–20:30 y bajar a 4:05 en las series de 1000 m.
