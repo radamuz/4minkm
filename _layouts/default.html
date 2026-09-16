@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<meta name="color-scheme" content="dark">
+<style>
+  :root {
+    --bg: #0f1115; --panel: #171a21; --panel-2: #1e222b; --border: #2a2f3a;
+    --text: #e6e8ec; --muted: #9aa3b2; --accent: #4fd1a5; --accent-2: #f5b942;
+    --link: #7cc4ff; --today-bg: #16362c; --week-bg: #13241f;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bg); }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header.site { background: linear-gradient(135deg, #10322a, #1a1f2b); border-bottom: 1px solid var(--border); padding: 28px 16px; }
+  header.site a { color: var(--text); text-decoration: none; font-size: 1.6rem; font-weight: 700; }
+  header.site p { margin: 4px 0 0; color: var(--muted); }
+  main { max-width: 900px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1, h2, h3, h4 { line-height: 1.25; }
+  h1 { color: var(--accent); }
+  h2 { border-bottom: 1px solid var(--border); padding-bottom: 6px; margin-top: 2.2em; }
+  a { color: var(--link); }
+  strong { color: #fff; }
+  code { background: var(--panel-2); padding: 1px 6px; border-radius: 4px; font-size: .9em; }
+  blockquote { margin: 1em 0; padding: 10px 16px; background: var(--panel); border-left: 4px solid var(--accent-2); border-radius: 4px; color: var(--text); }
+  blockquote p { margin: 0; }
+  table { border-collapse: collapse; width: 100%; display: block; overflow-x: auto; margin: 1em 0; }
+  th, td { border: 1px solid var(--border); padding: 6px 10px; text-align: left; vertical-align: top; }
+  th { background: var(--panel-2); }
+  tr:nth-child(even) td { background: var(--panel); }
+  img { max-width: 100%; height: auto; border-radius: 8px; }
+  ul { padding-left: 1.3em; }
+  li { margin: 2px 0; padding: 2px 6px; border-radius: 6px; }
+
+  /* Semana y día actuales */
+  .week-current { background: var(--week-bg); border: 1px solid #2d5b4c; border-radius: 10px; padding: 4px 14px 10px; margin: 1em -14px; }
+  .week-current h3 { color: var(--accent); }
+  .week-past { opacity: .5; }
+  .badge { display: inline-block; font-size: .75rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; margin-left: 8px; vertical-align: middle; }
+  .badge-week { background: var(--accent); color: #062018; }
+  .badge-day { background: var(--accent-2); color: #2a1c00; }
+  li.day-today, tr.day-today td { background: var(--today-bg) !important; outline: 2px solid var(--accent-2); }
+  #hoy-box { position: sticky; top: 0; z-index: 10; background: var(--panel); border: 1px solid var(--border); border-left: 5px solid var(--accent-2);
+    border-radius: 10px; padding: 12px 16px; margin: 0 0 16px; box-shadow: 0 6px 20px #0008; }
+  #hoy-box .t { color: var(--muted); font-size: .85rem; }
+  #hoy-box .s { font-size: 1.05rem; margin: 2px 0 8px; }
+  #hoy-box a { font-size: .85rem; }
+  .bar { display: flex; gap: 4px; margin-top: 6px; }
+  .bar span { flex: 1; height: 8px; border-radius: 4px; background: var(--panel-2); }
+  .bar span.done { background: #2d5b4c; }
+  .bar span.now { background: var(--accent); }
+</style>
+</head>
+<body>
+<header class="site">
+  <a href="{{ '/' | relative_url }}">🏃 {{ site.title }}</a>
+  <p>{{ site.description }}</p>
+</header>
+<main>
+{{ content }}
+</main>
+<script>
+(function () {
+  var START = new Date(2026, 8, 14); // lunes de la semana 0
+  var WEEKS = 8;
+  var DAYS = ['Dom', 'Lun', 'Mar', 'Mié', 'Jue', 'Vie', 'Sáb'];
+  var DAY_NAMES = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+  var ROW_NAMES = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+
+  var now = new Date();
+  var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  var diff = Math.round((today - START) / 86400000);
+  var week = Math.floor(diff / 7);
+  var dow = today.getDay();
+  var d = DAYS[dow];
+
+  function startsWithDay(text) {
+    var head = text.replace(/\*/g, '').trim().split(':')[0];
+    return head.split('/').some(function (part) {
+      return new RegExp('^' + d + '(\\s|$)').test(part.trim());
+    });
+  }
+
+  function highlight(root) {
+    var info = { week: week, session: null, weekTitle: null };
+    // Tabla de estructura semanal
+    root.querySelectorAll('table tr').forEach(function (tr) {
+      var c = tr.querySelector('td');
+      if (c && c.textContent.trim() === ROW_NAMES[dow]) {
+        tr.classList.add('day-today');
+        info.generic = tr.querySelectorAll('td')[1].innerHTML;
+      }
+    });
+    root.querySelectorAll('h3').forEach(function (h) {
+      var m = h.textContent.match(/^Semana (\d+)/);
+      if (!m) return;
+      var n = +m[1];
+      var nodes = [h];
+      var el = h.nextElementSibling;
+      while (el && !/^H[123]$/.test(el.tagName)) { nodes.push(el); el = el.nextElementSibling; }
+      if (n < week) nodes.forEach(function (x) { x.classList.add('week-past'); });
+      if (n !== week) return;
+      info.weekTitle = h.textContent;
+      var wrap = document.createElement('div');
+      wrap.className = 'week-current';
+      h.parentNode.insertBefore(wrap, h);
+      nodes.forEach(function (x) { wrap.appendChild(x); });
+      h.insertAdjacentHTML('beforeend', ' <span class="badge badge-week">ESTA SEMANA</span>');
+      wrap.querySelectorAll('li').forEach(function (li) {
+        if (startsWithDay(li.textContent)) {
+          li.classList.add('day-today');
+          li.insertAdjacentHTML('beforeend', ' <span class="badge badge-day">HOY</span>');
+          info.session = li.innerHTML.replace(/<span class="badge.*$/, '');
+          info.li = li;
+        }
+      });
+      info.wrap = wrap;
+    });
+    return info;
+  }
+
+  function box(info, planUrl) {
+    var b = document.createElement('div');
+    b.id = 'hoy-box';
+    var fecha = DAY_NAMES[dow] + ' ' + today.toLocaleDateString('es-ES', { day: 'numeric', month: 'long' });
+    var html;
+    if (diff < 0) {
+      html = '<div class="t">' + fecha + '</div><div class="s">El plan empieza el lunes 14 de septiembre.</div>';
+    } else if (week >= WEEKS) {
+      html = '<div class="t">' + fecha + '</div><div class="s">🏁 Plan terminado. ¡Sube el .fit del día D!</div>';
+    } else {
+      var ses = info.session || ('Según la semana tipo: ' + (info.generic || 'descanso'));
+      html = '<div class="t">' + fecha + ' · <strong>' + (info.weekTitle || ('Semana ' + week)) + '</strong></div>' +
+             '<div class="s">Hoy toca: ' + ses + '</div>';
+      var bar = '<div class="bar">';
+      for (var i = 0; i < WEEKS; i++) bar += '<span class="' + (i < week ? 'done' : i === week ? 'now' : '') + '" title="Semana ' + i + '"></span>';
+      html += bar + '</div>';
+      html += planUrl ? '<a href="' + planUrl + '#hoy">Ver el plan completo →</a>' : '<a href="#" id="go-today">Ir a hoy ↓</a>';
+    }
+    b.innerHTML = html;
+    return b;
+  }
+
+  var main = document.querySelector('main');
+  var anchor = document.getElementById('hoy');
+  if (anchor) {
+    var info = highlight(main);
+    main.insertBefore(box(info), main.firstChild);
+    var go = document.getElementById('go-today');
+    if (go) go.onclick = function (e) {
+      e.preventDefault();
+      (info.li || info.wrap || anchor).scrollIntoView({ behavior: 'smooth', block: 'center' });
+    };
+  } else if (document.body.dataset.page !== 'none' && main.querySelector('a[href*="plan-sub20-5km"]')) {
+    var url = main.querySelector('a[href*="plan-sub20-5km"]').getAttribute('href');
+    fetch(url).then(function (r) { return r.text(); }).then(function (t) {
+      var doc = new DOMParser().parseFromString(t, 'text/html');
+      var m = doc.querySelector('main');
+      if (!m) return;
+      main.insertBefore(box(highlight(m), url), main.firstChild);
+    }).catch(function () {});
+  }
+})();
+</script>
+</body>
+</html>
