@@ -34,6 +34,35 @@ Lo que dicen los datos:
 
 > Regla de oro: **el 80 % de los km, suaves de verdad**. Nada de rodajes "a medias" a 5:00.
 
+### Glosario: qué significa cada cosa
+
+| Término | Qué es | Cómo se hace |
+|---|---|---|
+| **Z2 / rodaje suave** | Correr muy tranquilo, a un ritmo al que puedes hablar sin problema | Pulso por debajo de 150. Si te cuesta hablar, ve más despacio |
+| **Strides / rectas** | Aceleraciones cortas para soltar las piernas y mejorar la técnica. **No es un sprint** | Ver cómo se hacen justo debajo |
+| **Series** | Tramos rápidos repetidos con descanso entre ellos | Ej.: `6×400 m a 3:50, rec. 200 m` = 6 veces 400 m a ritmo 3:50/km, trotando 200 m entre cada una |
+| **rec.** | Recuperación entre repeticiones | Si pone metros, trotas suave esa distancia. Si pone minutos (`2'`), trotas o caminas ese tiempo |
+| **Tempo / umbral** | Ritmo "cómodamente duro": puedes decir frases cortas, pero no conversar | Pulso entre 172 y 182 |
+| **VO2max** | Esfuerzo muy alto, pero sostenible unos minutos | Es lo que se trabaja en las series cortas. Pulso por encima de 185 |
+| **Tirada larga** | El rodaje más largo de la semana, siempre suave | Igual que Z2, pero más tiempo |
+| **Calentamiento** | Preparar el cuerpo antes de una sesión rápida | 12–15' suave + movilidad + 4 strides |
+| **Enfriamiento** | Bajar pulsaciones al acabar | 8–10' trotando muy suave |
+| **Puesta a punto** | Última semana: menos kilómetros para llegar fresco | Se mantiene algo de ritmo, pero se corre mucho menos |
+| **Cadencia** | Pasos por minuto | Objetivo: 170–175. Pasos cortos y rápidos |
+| `5'` / `20"` | Minutos / segundos | `3'` = 3 minutos, `20"` = 20 segundos |
+
+#### Cómo hacer los strides paso a paso
+
+1. Al terminar el rodaje suave (o dentro del calentamiento), busca una recta **llana de 80–100 m**.
+2. **Empieza trotando** y ve acelerando poco a poco durante unos 15–20 segundos.
+3. En la mitad llegas a un **~90 % de tu velocidad**: rápido, pero **suelto y relajado**, nunca a tope.
+4. Pasos **cortos y rápidos**, brazos activos, hombros y cara relajados.
+5. **Frena poco a poco**, sin pararte en seco.
+6. **Camina o trota de vuelta** (45"–1') hasta recuperar del todo.
+7. Repite las veces que diga el plan (4–6).
+
+> Si acabas cansado después de los strides, los has hecho demasiado rápido. Tienen que dejarte **las piernas ligeras**, no cansadas.
+
 ## 3. Estructura semanal tipo
 
 | Día | Sesión |
