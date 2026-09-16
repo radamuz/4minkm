@@ -132,7 +132,7 @@
     } else if (week >= WEEKS) {
       html = '<div class="t">' + fecha + '</div><div class="s">🏁 Plan terminado. ¡Sube el .fit del día D!</div>';
     } else {
-      var ses = info.session || ('Según la semana tipo: ' + (info.generic || 'descanso'));
+      var ses = info.session || 'Nada de carrera programado: <strong>descanso</strong> (o calistenia de tren superior si te apetece).';
       html = '<div class="t">' + fecha + ' · <strong>' + (info.weekTitle || ('Semana ' + week)) + '</strong></div>' +
              '<div class="s">Hoy toca: ' + ses + '</div>';
       var bar = '<div class="bar">';
