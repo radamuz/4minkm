@@ -102,24 +102,25 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - Vie: híbrido + pachangas
 - Dom: 40' corriendo en Z2
 
-### Semana 1 · 21–27 sept (base + primeras series)
+### Semana 1 · 21–27 sept (base + ⚠️ simulación de la strong race el dom 27/09)
 - Lun: 6×400 m a 3:50 /km, rec. 200 m trotando
 - Mar: 30' corriendo en Z2 + 6 strides
-- Mié: 35' corriendo en Z2 (todavía sin tempo)
-- Jue: calistenia de tren superior o descanso
-- Vie: híbrido + pachangas
-- Dom: 50' corriendo en Z2
-- **Volumen ≈ 28–30 km** (contando los ~5 km de las pachangas)
+- Mié: 4×1000 m a 4:25 (ritmo de la simulación), rec. 2'. Sirve para memorizar el ritmo
+- Jue: descanso o calistenia de tren superior muy ligera
+- **Vie: híbrido ligero (sin trineo ni nada de piernas a tope) o solo pachangas suaves.** No las dos cosas a tope: faltan 48 h
+- Sáb: descanso o 15' corriendo muy suave + 3 strides
+- **Dom 27: SIMULACIÓN 5 km con Javi** (ver apartado 5 bis)
+- **Volumen ≈ 25 km** (contando las pachangas y la simulación)
 
 ### Semana 2 · 28 sept–4 oct (⚠️ carrera MEGA Hyathlon el sáb 3/10)
-- Lun: 5×800 m a 4:05, rec. 2'
-- Mar: 30' corriendo en Z2 + 4 strides
-- Mié: 20' corriendo muy suave + 3 strides
+- Lun: 30' corriendo muy suave (piernas de la simulación)
+- Mar: 4×800 m a 4:05, rec. 2' (una serie menos que lo previsto: vienes de la simulación y el sábado hay carrera)
+- Mié: 25' corriendo en Z2 + 4 strides
 - Jue: descanso
 - **Vie: sin híbrido.** Pachangas solo si juegas suave, mejor saltártelas
 - **Sáb: carrera MEGA Hyathlon**
 - Dom: descanso o 30' corriendo muy suave
-- **Volumen ≈ 20–25 km**
+- **Volumen ≈ 20 km**
 
 ### Semana 3 · 5–11 oct (umbral)
 - Lun: 8×400 m a 3:48, rec. 200 m
@@ -179,6 +180,16 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - El km 4 es el que mata: estaba previsto, es donde se decide el sub-20.
 - La fecha exacta de la *strong race* (sábado 7 o domingo 8) aún no está confirmada. La semana 7 sirve para los dos casos: solo cambia el final (ver nota de la semana 7). Lo importante es que haya **48 h sin intensidad** antes de la carrera.
 
+## 5 bis. Simulación del domingo 27/09
+
+Es un **ensayo de la strong race**, no la carrera: se trata de probar la rutina y medir dónde estás tras dos semanas de plan.
+
+- Mismo protocolo que el día D: desayuno, calentamiento de 15' + 4 strides, y a ser posible **recorrido llano**.
+- **Objetivo: ≤ 22:00** (4:24 /km) en llano. Si el recorrido tiene cuestas como el del 09/09, compara con los 22:27.
+- Parciales: **4:28 · 4:25 · 4:25 · 4:25 · lo que quede**. Nada de salir a 4:15: lo que se prueba es un **ritmo constante**, sobre todo que el km 4 no se hunda.
+- Apunta cómo te sienta el calentamiento y el desayuno: lo que funcione se repite en noviembre.
+- Sube el .fit a `entrenos-realizados-fits/`.
+
 ## 6. Complementos
 
 - **Cadencia**: en rodajes y strides piensa en "pasos cortos y rápidos". Un metrónomo a 170 ppm durante 5' por rodaje ayuda.
@@ -188,7 +199,15 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 
 ## 7. Seguimiento
 
-Sube cada .fit a `entrenos-realizados-fits/` y se ajustan los ritmos tras el **test del domingo 18/10**:
+Sube cada .fit a `entrenos-realizados-fits/`. Hay dos puntos de control:
+
+**Simulación del domingo 27/09**:
+
+- ≤ 21:45 → vas por delante: bajar 5 s/km los ritmos de series y tempo.
+- 21:45–22:15 → según lo previsto, mantener el plan.
+- > 22:15 → más Z2 y menos intensidad hasta la Hyathlon; revisar en el test del 18/10.
+
+**Test del domingo 18/10**:
 
 - ≤ 21:00 → mantener el plan.
 - 21:00–21:30 → el sub-20 es exigente; apuntar a 20:15–20:30 y bajar a 4:05 en las series de 1000 m.
