@@ -258,9 +258,70 @@ Truco: cuenta solo el pie derecho, "1-2-3..." cada vez que toca el suelo, mirand
 ## 7. Complementos
 
 - **Cadencia**: ver el apartado 6.
-- **Fuerza específica** (2×/semana en calistenia): sentadilla búlgara, elevaciones de gemelo a una pierna 3×15, saltos pliométricos 3×8 y core antirrotación.
+- **Fuerza específica** (2×/semana en calistenia): sentadilla búlgara, elevaciones de gemelo a una pierna 3×15, saltos pliométricos 3×8 y core antirrotación. **Cómo se hace cada uno, justo debajo.**
 - **Sueño 7–8 h** y comer bien los días de series; a 63,8 kg no hace falta perder peso.
 - **Señales de alarma**: FC en reposo 5+ ppm por encima de lo normal, piernas cargadas 3 días o dolor en tibia/aquiles → cambiar las series de esa semana por Z2.
+
+### Cómo se hace cada ejercicio de fuerza
+
+Los cuatro van seguidos, en este orden, **después de correr** (nunca antes de una sesión rápida) o en un día suave. La sesión entera son unos 20–25'. Sin material: como mucho una silla o un escalón.
+
+> **Qué NO se busca aquí**: ni músculo ni fatiga. Se busca que la pierna aguante bien el impacto y devuelva energía, para que a 4:00 /km no se te hunda la técnica. Si un día sales reventado de fuerza, te has pasado.
+
+#### 1. Sentadilla búlgara — 3×8 por pierna
+
+Fuerza de una sola pierna, que es como corres de verdad.
+
+1. De espaldas a una silla o sofá, a un paso largo de distancia.
+2. Apoya el **empeine** del pie de atrás en el asiento. Todo el peso va en la pierna de delante.
+3. Baja recto, doblando la rodilla de delante, hasta que el muslo quede casi paralelo al suelo. El tronco, erguido.
+4. Sube empujando con el **talón** de la pierna de delante.
+
+- **Ritmo**: 2 segundos bajando, 1 subiendo. Nada de rebotar abajo.
+- **La rodilla de delante** puede pasar un poco por delante del pie: es normal, no duele. Lo que no debe hacer es **irse hacia dentro**; si se va, acerca el pie a la silla y baja menos.
+- **Si te caes de lado**: separa un poco los pies hacia los lados (no en la misma línea) y toca la pared con una mano.
+- **Demasiado fácil**: baja más despacio (3–4 s) o sube el pie de atrás más alto.
+
+#### 2. Elevaciones de gemelo a una pierna — 3×15 por pierna
+
+Es el ejercicio que más protege el aquiles y la tibia, justo lo que el plan marca como señal de alarma.
+
+1. De pie sobre una pierna, la otra doblada detrás. Una mano en la pared solo para el equilibrio, **sin apoyar peso**.
+2. Sube de puntillas **todo lo alto que puedas** y quédate arriba 1 segundo.
+3. Baja **despacio**, en 3 segundos, hasta que el talón toque el suelo.
+
+- Lo importante es el **recorrido completo** arriba y la **bajada lenta**: ahí está el trabajo.
+- **Mejor en un escalón** (con el borde bajo la parte delantera del pie y el talón en el aire) para bajar por debajo del nivel del suelo, pero en suelo llano ya sirve.
+- Rodilla **estirada** (gemelo). Si además quieres el sóleo, que es el que sufre corriendo, haz una serie con la rodilla un poco doblada.
+- Si llegas a 15 sin esfuerzo, ve más lento en la bajada antes que añadir repeticiones.
+
+#### 3. Saltos pliométricos — 3×8
+
+Enseñan al pie a devolver energía rápido. Es **calidad, no cansancio**.
+
+1. De pie, pies a la anchura de las caderas.
+2. Salta en el sitio, **poco alto** (10–15 cm), cayendo en la parte delantera del pie.
+3. En cuanto tocas el suelo, **sales otra vez**: el suelo quema, igual que en la cadencia.
+
+- **La clave es el tiempo de contacto**, no la altura. Debe sonar **ligero**; si suena un golpe seco, estás cayendo de talón o saltando demasiado alto.
+- **Descansa 1' entre series** y para en cuanto notes que los saltos se vuelven pesados, aunque no hayas llegado a 8.
+- Empieza con los dos pies. Cuando lo domines (2–3 semanas), prueba 3×6 a la pata coja, muy suave.
+- **Sáltatelos** si vienes de una sesión dura de series o notas la tibia o el aquiles.
+
+#### 4. Core antirrotación — 3×20–30" por lado
+
+El tronco no tiene que mover nada, tiene que **impedir** que el cuerpo se retuerza en cada zancada. Por eso se entrena aguantando, no haciendo abdominales.
+
+Elige uno (o alterna):
+
+- **Plancha lateral**: de lado, apoyado en antebrazo y canto del pie. Cuerpo en línea recta, cadera **alta**. Aguanta 20–30" por lado.
+- **Bicho muerto** (*dead bug*): boca arriba, brazos hacia el techo y rodillas a 90°. Estira a la vez el brazo derecho hacia atrás y la pierna izquierda hacia delante, sin que la **zona lumbar se despegue del suelo**. Vuelve y cambia. 8–10 por lado, lento.
+- **Plancha con toque de hombro**: en plancha frontal con los pies separados, toca el hombro contrario con una mano y vuelve, **sin que la cadera se balancee**. 8–10 por lado.
+
+- **Respira normal** durante todo el ejercicio: si tienes que aguantar la respiración, es demasiado.
+- Se acaba la serie cuando la cadera empieza a caer o a girar, no cuando llegas al tiempo.
+
+> **Molestias**: agujetas al día siguiente son normales las dos primeras semanas. Dolor puntual en rodilla, tibia o aquiles, no: quita ese ejercicio y deja solo los gemelos y el core.
 
 ## 8. Seguimiento
 
