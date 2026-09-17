@@ -209,11 +209,46 @@ Para ir más rápido puedes dar **más pasos** o **pasos más largos**. Alargar 
 
 Ya sabes hacerlo: en los strides te sale sola. El problema es que al ir suave te caes a 155.
 
+### ¿Qué cadencia en Z2?
+
+No hace falta rodar a 172: la cadencia sube con la velocidad, así que en rodaje suave lo normal es ir **5–8 spm por debajo** del ritmo de carrera, no 17 como ahora.
+
+**Objetivo en Z2: 165–170 spm** (168 es buen punto medio). A 6:00 /km eso es:
+
+| Cadencia a 6:00 /km | Avance por paso |
+|---|---|
+| 155 spm (lo que haces ahora) | 1,08 m |
+| **165 spm** | 1,01 m |
+| 170 spm | 0,98 m |
+
+La idea es mantener el paso corto (~1 m) y que lo que cambie con la velocidad sea la **frecuencia**, no la longitud. Si entrenas el rodaje a 165–170, los 172–175 de carrera salen solos; si lo entrenas a 155, tu cuerpo por defecto es 155 y al ir rápido compensa alargando la zancada, que es justo lo que quieres evitar.
+
+Ahora mismo te toca apuntar a **160**, no a 170 de golpe (ver la progresión del final del apartado).
+
+> En subida la cadencia baja sola 3–5 spm y es correcto. **Mide siempre en llano.**
+
+### Medirlo sin reloj
+
+Cuenta los apoyos de **un solo pie**. Con 30 segundos basta; los 15" valen para comprobar rápido a mitad de rodaje.
+
+| Apoyos de un pie en 15" | En 30" | Cadencia | Qué es |
+|---|---|---|---|
+| 19 | 38 | 152 spm | Demasiado baja |
+| 19–20 | 39 | 156 spm | Tu cadencia actual |
+| 20 | 40 | **160 spm** | **Objetivo de estas semanas** |
+| 20–21 | 41 | 164 spm | Bien |
+| 21 | 42 | **168 spm** | **Objetivo en Z2** |
+| 21–22 | 43 | 172 spm | Ritmo de carrera (4:00 /km) |
+| 22 | 44 | 176 spm | Series cortas |
+| 23 | 46 | 184 spm | Strides |
+
+Truco: cuenta solo el pie derecho, "1-2-3..." cada vez que toca el suelo, mirando el segundero. Si te lías, cuenta 10 apoyos de ese pie y mira cuántos segundos han pasado: **7,0 s = 172 spm**, 7,4 s = 162, 7,8 s = 154 (cuantos menos segundos, mejor).
+
 **Cómo entrenarlo:**
 
 1. **No es correr más rápido.** Misma velocidad, pero **pasos más cortos y más frecuentes**. Al principio parece que corres "a pasitos": es normal.
 2. **Piensa que el suelo quema** y quieres quitar el pie rápido. Apoyo ligero, debajo de la cadera, nunca por delante.
-3. **Medirlo sin reloj:** cuenta los apoyos de **un solo pie durante 30 segundos**. 39–40 = 155–160 spm. **43 = 172 spm**.
+3. **Comprueba sobre la marcha** con la tabla de aquí arriba: unos segundos contando apoyos a mitad de rodaje.
 4. **Cuánto:** 5' por rodaje, no el rodaje entero. Cuando salga natural, alargas.
 5. **Con metrónomo** a 170 (app o alerta de cadencia del reloj): ajusta los pasos al pitido.
 6. **Los strides ya lo entrenan solos.**
