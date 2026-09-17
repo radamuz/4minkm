@@ -1,0 +1,30 @@
+plan-sub20-5km.md
+  s_9449fcec99799d::t_37c89f9c1e05d5 183-192
+  s_9449fcec99799d::t_66bf36cf638ace 105,108-113,116-118,123
+  s_9449fcec99799d::t_058592a99d0a93 202-210
+index.md
+  s_9449fcec99799d::t_a58eafff380f7e 14
+calendario-carreras-oficiales.md
+  h_b23a6a8439c0dd 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9d4f96218a72fcdc4bf7993dabdfb6ec7a1d8435",
+  "prompts": {},
+  "humans": {
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  },
+  "sessions": {
+    "s_9449fcec99799d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d7c9acdd-a612-45b0-9699-ae9ab0b92853",
+        "model": "claude-opus-5"
+      },
+      "human_author": "unknown"
+    }
+  }
+}
