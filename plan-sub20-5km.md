@@ -190,14 +190,44 @@ Es un **ensayo de la strong race**, no la carrera: se trata de probar la rutina 
 - Apunta cómo te sienta el calentamiento y el desayuno: lo que funcione se repite en noviembre.
 - Sube el .fit a `entrenos-realizados-fits/`.
 
-## 6. Complementos
+## 6. Cadencia: "mover las piernas rápido"
 
-- **Cadencia**: en rodajes y strides piensa en "pasos cortos y rápidos". Un metrónomo a 170 ppm durante 5' por rodaje ayuda.
+La **cadencia** son los pasos que das por minuto, contando los dos pies.
+
+> **velocidad = pasos por minuto × cuánto avanzas en cada paso**
+
+Para ir más rápido puedes dar **más pasos** o **pasos más largos**. Alargar el paso es la mala opción: el pie cae por delante del cuerpo, frenas en cada apoyo y te llevas más impacto en rodillas y tibias.
+
+**Tus números:**
+
+| Situación | Cadencia | Avance por paso |
+|---|---|---|
+| Rodaje suave a 6:15 (17/09) | 155 spm | 1,03 m |
+| A 4:00 /km manteniendo 155 spm | 155 spm | **1,61 m** (sobrezancada) |
+| A 4:00 /km con la cadencia objetivo | **172 spm** | 1,45 m (asequible) |
+| En tus strides del 17/09 | **hasta 182 spm** | — |
+
+Ya sabes hacerlo: en los strides te sale sola. El problema es que al ir suave te caes a 155.
+
+**Cómo entrenarlo:**
+
+1. **No es correr más rápido.** Misma velocidad, pero **pasos más cortos y más frecuentes**. Al principio parece que corres "a pasitos": es normal.
+2. **Piensa que el suelo quema** y quieres quitar el pie rápido. Apoyo ligero, debajo de la cadera, nunca por delante.
+3. **Medirlo sin reloj:** cuenta los apoyos de **un solo pie durante 30 segundos**. 39–40 = 155–160 spm. **43 = 172 spm**.
+4. **Cuánto:** 5' por rodaje, no el rodaje entero. Cuando salga natural, alargas.
+5. **Con metrónomo** a 170 (app o alerta de cadencia del reloj): ajusta los pasos al pitido.
+6. **Los strides ya lo entrenan solos.**
+
+> **Sube poco a poco**: +5 spm cada dos semanas (155 → 160 → 165 → 170), no de golpe.
+
+## 7. Complementos
+
+- **Cadencia**: ver el apartado 6.
 - **Fuerza específica** (2×/semana en calistenia): sentadilla búlgara, elevaciones de gemelo a una pierna 3×15, saltos pliométricos 3×8 y core antirrotación.
 - **Sueño 7–8 h** y comer bien los días de series; a 63,8 kg no hace falta perder peso.
 - **Señales de alarma**: FC en reposo 5+ ppm por encima de lo normal, piernas cargadas 3 días o dolor en tibia/aquiles → cambiar las series de esa semana por Z2.
 
-## 7. Seguimiento
+## 8. Seguimiento
 
 Sube cada .fit a `entrenos-realizados-fits/`. Hay dos puntos de control:
 
