@@ -4,6 +4,7 @@ Objetivo: **5 km en menos de 20 minutos (4:00 /km)** el 7 u 8 de noviembre de 20
 
 - [Plan de entrenamiento sub-20'](plan-sub20-5km.md)
 - [Calendario de carreras oficiales](calendario-carreras-oficiales.md)
+- [Notas sobre los datos (qué es fiable y errores corregidos)](notas-sobre-los-datos.md)
 - [Entreno híbrido (11/09)](entrenos-realizados-fits/hibridorstraining.md)
 - [Entreno híbrido (18/09)](entrenos-realizados-fits/hibridorstraining2.md)
 

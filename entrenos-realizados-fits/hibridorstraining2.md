@@ -33,4 +33,5 @@ Por parejas (A y B), **for time**. Cada bloque empieza con una carrera.
 | **Total** | **31:20** | **3,3 km** | **170 / 188** |
 
 - Tiempo por zonas: < 150: 11 % · 150–172: 37 % · **172–185: 45 %** · > 185: 7 %.
-- Comparado con el del 11/09 (43', FC 173, **22 %** por encima de 185): sesión más corta y menos tiempo en la zona roja.
+- Comparado con el del 11/09 (43', FC 173, **22 %** por encima de 185): sesión más corta y menos tiempo en la zona roja. Al ser un formato distinto, no sirve para medir la forma.
+- Distancia y desnivel del reloj no valen en el gimnasio (GPS bajo techo, barómetro con picos de −71 m).

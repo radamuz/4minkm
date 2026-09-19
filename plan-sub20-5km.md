@@ -2,26 +2,33 @@
 
 ## 1. Punto de partida (datos de los .fit)
 
-| Sesión | Fecha | Tiempo | Ritmo medio / distancia | FC media / máx | Desnivel + |
+| Sesión | Fecha | Tiempo | Ritmo medio / distancia | FC media / máx | Desnivel + (estimado)* |
 |---|---|---|---|---|---|
-| 5 km al máximo | 09/09 | 22:27 | 4:29 /km | 181 / 198 | 137 m |
-| 5 km tranquilo (con Pedro) | 15/09 | 30:01 | 6:00 /km | 147 / 160 | 77 m |
+| 5 km al máximo | 09/09 | 22:27 | 4:29 /km | 181 / 198 | ~15 m, y **bajada neta de 17 m** |
+| 5 km tranquilo (con Pedro) | 15/09 | 30:01 | 6:00 /km | 147 / 160 | llano |
 | Híbrido (EMOM + AMRAP) | 11/09 (16:50) | 43' | 2,8 km | 173 / 197 | — |
 | Pachangas (fútbol) | 11/09 (19:05) | 1 h 36' | 5,0 km | 157 / 199 | — |
-| 30' Z2 + 4 strides | 17/09 | 38' | 5,7 km a 6:42 | 138 / 165 | 169 m |
+| 30' Z2 + 4 strides | 17/09 | 38' | 5,7 km a 6:42 | 138 / 165 | llano |
 | Híbrido por parejas | 18/09 (16:45) | 31' | 3,3 km | 170 / 188 | — |
 | Pachangas (fútbol) | 18/09 (19:05) | 1 h 07' | 3,7 km | 170 / 194 | — |
-| 8 km con Javi (no previsto) | 19/09 (10:27) | 39:48 | 4:58 /km | 176 / 187 | 129 m |
+| 8 km con Javi (no previsto) | 19/09 (10:27) | 39:48 | 4:58 /km | 176 / 187 | llano |
+
+\* **El desnivel que da el reloj no es fiable** (marcaba 77–169 m). El de la tabla sale de contrastar el GPS de cada .fit con un modelo digital del terreno (Copernicus DEM). Detalles en [notas sobre los datos](notas-sobre-los-datos.md).
 
 Parciales del 5 km al máximo: **4:37 · 4:20 · 4:26 · 4:48 · 4:15**
 
+| km | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Ritmo | 4:37 | 4:20 | 4:26 | 4:48 | 4:15 |
+| Altitud neta (DEM) | **−8 m** | **−9 m** | +6 m | −3 m | −3 m |
+
 Lo que dicen los datos:
 
-- **Faltan ~2:27 (≈29 s/km)**. Es mucho para 7 semanas, pero se puede, sobre todo por los dos puntos siguientes.
-- **El recorrido tenía 137 m de subida en 5 km**, que es bastante. En llano ese mismo esfuerzo daría seguramente unos 21:30–21:45. El test final tiene que ser **en llano** (pista o paseo).
-- **Ritmo irregular**: el km 4 (4:48) se hundió y el 5 salió en 4:15, así que te guardaste energía. Con un ritmo constante se ganan segundos.
+- **Faltan ~2:30–2:40 en llano (≈31 s/km)**. No hay descuento por cuestas: el recorrido era, si acaso, **a favor**. Ver [¿Es factible el sub-20?](#factible).
+- **El recorrido era casi llano y ligeramente cuesta abajo**: de 56 m a 38 m de altitud, con solo ~15 m de subida (el reloj decía 137). Esa bajada suave ayuda un poco, así que **tu marca equivalente en llano es ~22:35 (22:30–22:40)**. El test final tiene que ser **en llano** (pista o paseo).
+- **Ritmo irregular**: los km 1–2 fueron cuesta abajo (−17 m), así que el 4:20 del km 2 estaba ayudado. El km 3 fue la única subida (+6 m) y el **km 4 (4:48) se hundió en llano**: fue cansancio por salir fuerte. El 4:15 final fue sprint, no bajada. Con un ritmo constante se ganan segundos.
 - **La FC se disparó pronto** (177 ya en el km 2): te falta base aeróbica y tolerancia al umbral. Eso es justo lo que se entrena.
-- **Cadencia ~156–160 ppm** (78–80 por pierna): baja para ir a 4:00. Conviene llegar a 170–175.
+- **Cadencia ~156–160 spm** (78–80 por pierna): baja para ir a 4:00. Conviene llegar a 170–175.
 - FC máx observada: **~199**. Zonas de trabajo:
   - Z2 suave: **< 150 ppm**
   - Umbral: **172–182 ppm**
@@ -46,7 +53,7 @@ Lo que dicen los datos:
 | Pachangas: tiempo > 185 ppm | 27 % | **10 %** |
 | Pachangas: FC máx | 199 | 194 |
 
-La FC media de las pachangas sale más alta (170 vs 157) solo porque esta vez no hubo la media hora final casi parado. En el tiempo de juego fuiste **menos rato en rojo**. No es aún una prueba de forma (son sesiones distintas), pero la tendencia es buena.
+La FC media de las pachangas sale más alta (170 vs 157) solo porque esta vez no hubo la media hora final casi parado. En el tiempo de juego fuiste **menos rato en rojo**. Es buena señal de que dosificaste mejor, pero **no mide la forma**: son sesiones distintas.
 
 **Sábado (8 km a 5:00 con Javi).** Aquí sí fuiste alto:
 
@@ -61,6 +68,26 @@ La FC media de las pachangas sale más alta (170 vs 157) solo porque esta vez no
 - Lo bueno: aguantaste 8 km a < 5:00 sin hundirte (cadencia estable en 158–160, justo el objetivo de estas semanas).
 
 **Conclusión**: 3 sesiones duras en 18 h (viernes tarde + sábado mañana). Por eso el domingo pasa a descanso y la semana 1 empieza suave (ver abajo).
+
+<div id="factible"></div>
+
+### ¿Es factible el sub-20?
+
+**Es posible, pero ambicioso: hoy es más probable acabar en 20:30–21:00 que bajar de 20.**
+
+- Hay que bajar de ~22:35 (en llano) a 19:59: **un 11–12 % en 7 semanas**. Lo habitual con un plan bien hecho es mejorar un 5–8 % en ese tiempo. Algo más si vienes de poca carrera específica, como es tu caso.
+- **A favor**: poca base de carrera (mucho margen para mejorar rápido), buen motor por el híbrido y el fútbol, y un 5 km al máximo muy irregular (km 4 hundido).
+- **En contra**: 2 carreras por medio (simulación y Hyathlon) que quitan semanas de carga, viernes muy cargados y, de momento, sesiones extra no previstas. Los 8 km a 4:58 (con fatiga) apuntan a un umbral en torno a 4:40–4:45 /km. Para el sub-20 tiene que acercarse a 4:10.
+
+**Objetivos por escalones:**
+
+| Objetivo | Tiempo | Ritmo |
+|---|---|---|
+| A (sueño) | < 20:00 | 4:00 /km |
+| B (muy buen resultado) | < 20:45 | 4:09 /km |
+| C (mínimo razonable) | < 21:30 | 4:18 /km |
+
+Los dos controles del apartado 8 deciden a cuál se apunta el día D. Hasta el test del 18/10, **el plan no cambia**: los ritmos de entrenamiento se basan en tu nivel actual, no en el objetivo.
 
 ## 2. Ritmos de entrenamiento (revisar tras cada test)
 
@@ -221,7 +248,7 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 Es un **ensayo de la strong race**, no la carrera: se trata de probar la rutina y medir dónde estás tras dos semanas de plan.
 
 - Mismo protocolo que el día D: desayuno, calentamiento de 15' + 4 strides, y a ser posible **recorrido llano**.
-- **Objetivo: ≤ 22:00** (4:24 /km) en llano. Si el recorrido tiene cuestas como el del 09/09, compara con los 22:27.
+- **Objetivo: ≤ 22:00** (4:24 /km) en llano. Tu referencia en llano es ~22:35, así que ≤ 22:00 ya sería una mejora real.
 - Parciales: **4:28 · 4:25 · 4:25 · 4:25 · lo que quede**. Nada de salir a 4:15: lo que se prueba es un **ritmo constante**, sobre todo que el km 4 no se hunda.
 - Apunta cómo te sienta el calentamiento y el desayuno: lo que funcione se repite en noviembre.
 - Sube el .fit a `entrenos-realizados-fits/`.
@@ -238,7 +265,7 @@ Para ir más rápido puedes dar **más pasos** o **pasos más largos**. Alargar 
 
 | Situación | Cadencia | Avance por paso |
 |---|---|---|
-| Rodaje suave a 6:15 (17/09) | 155 spm | 1,03 m |
+| Rodaje suave a 6:20 (17/09, km 1–3) | 153 spm | 1,03 m |
 | A 4:00 /km manteniendo 155 spm | 155 spm | **1,61 m** (sobrezancada) |
 | A 4:00 /km con la cadencia objetivo | **172 spm** | 1,45 m (asequible) |
 | En tus strides del 17/09 | **hasta 182 spm** | — |
@@ -371,6 +398,8 @@ Sube cada .fit a `entrenos-realizados-fits/`. Hay dos puntos de control:
 
 **Test del domingo 18/10**:
 
-- ≤ 21:00 → mantener el plan.
-- 21:00–21:30 → el sub-20 es exigente; apuntar a 20:15–20:30 y bajar a 4:05 en las series de 1000 m.
-- > 21:30 → revisar carga y descanso.
+- ≤ 21:00 → el **objetivo A (sub-20)** sigue vivo: mantener el plan.
+- 21:00–21:30 → apuntar al **objetivo B (< 20:45)**: salida a 4:08 y series de 1000 m a 4:05.
+- > 21:30 → apuntar al **objetivo C (< 21:30)** y revisar carga y descanso.
+
+> Si el recorrido de la simulación o del test no es llano, contrastar el desnivel con el DEM antes de sacar conclusiones (ver [notas sobre los datos](notas-sobre-los-datos.md)).
