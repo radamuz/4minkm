@@ -8,6 +8,10 @@
 | 5 km tranquilo (con Pedro) | 15/09 | 30:01 | 6:00 /km | 147 / 160 | 77 m |
 | Híbrido (EMOM + AMRAP) | 11/09 (16:50) | 43' | 2,8 km | 173 / 197 | — |
 | Pachangas (fútbol) | 11/09 (19:05) | 1 h 36' | 5,0 km | 157 / 199 | — |
+| 30' Z2 + 4 strides | 17/09 | 38' | 5,7 km a 6:42 | 138 / 165 | 169 m |
+| Híbrido por parejas | 18/09 (16:45) | 31' | 3,3 km | 170 / 188 | — |
+| Pachangas (fútbol) | 18/09 (19:05) | 1 h 07' | 3,7 km | 170 / 194 | — |
+| 8 km con Javi (no previsto) | 19/09 (10:27) | 39:48 | 4:58 /km | 176 / 187 | 129 m |
 
 Parciales del 5 km al máximo: **4:37 · 4:20 · 4:26 · 4:48 · 4:15**
 
@@ -30,6 +34,33 @@ Lo que dicen los datos:
   - En esa hora de juego, la FC media fue **168–185** según el tramo, y un **31 %** del tiempo por encima de 185 ppm (zona VO2max).
   - Velocidad máxima: **23,7 km/h**. Unos 4 km por hora en un campo pequeño es normal: muchos cambios de ritmo, arranques y frenadas.
 - **Conclusión**: el viernes son unas **2 h de intensidad alta** y equivale a dos sesiones duras. Por eso el plan deja suave el jueves y el sábado.
+
+### Semana 0: viernes 18 + sábado 19
+
+**Viernes (híbrido + pachangas).** Día duro, como tocaba, pero **no te pasaste más de lo previsto**: es lo que el plan esperaba de un viernes.
+
+| | 11/09 | 18/09 |
+|---|---|---|
+| Híbrido: tiempo > 172 ppm | 68 % | 52 % |
+| Híbrido: tiempo > 185 ppm | 22 % | **7 %** |
+| Pachangas: tiempo > 185 ppm | 27 % | **10 %** |
+| Pachangas: FC máx | 199 | 194 |
+
+La FC media de las pachangas sale más alta (170 vs 157) solo porque esta vez no hubo la media hora final casi parado. En el tiempo de juego fuiste **menos rato en rojo**. No es aún una prueba de forma (son sesiones distintas), pero la tendencia es buena.
+
+**Sábado (8 km a 5:00 con Javi).** Aquí sí fuiste alto:
+
+| km | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Ritmo | 4:48 | 4:44 | 5:04 | 4:44 | 5:02 | 4:56 | 5:02 | 5:26 |
+| FC media | 159 | 169 | 172 | 179 | 180 | 183 | 184 | 178 |
+
+- Ritmo casi constante y **la FC subió 25 ppm** (159 → 184): es la *deriva cardiaca* típica de ir con **carga acumulada** (y 18 h después de 1 h 40' de intensidad).
+- El 69 % del tiempo estuviste en umbral (172–185). Es decir, **no fue un rodaje: fue una sesión de tempo de 40'**, la más larga que has hecho.
+- 5:00 /km es justo el "ritmo a medias" que el plan evita: demasiado rápido para ser Z2 y demasiado lento para ser calidad.
+- Lo bueno: aguantaste 8 km a < 5:00 sin hundirte (cadencia estable en 158–160, justo el objetivo de estas semanas).
+
+**Conclusión**: 3 sesiones duras en 18 h (viernes tarde + sábado mañana). Por eso el domingo pasa a descanso y la semana 1 empieza suave (ver abajo).
 
 ## 2. Ritmos de entrenamiento (revisar tras cada test)
 
@@ -88,6 +119,7 @@ Lo que dicen los datos:
 - **Por qué este orden:** los datos muestran que el viernes son ~2 h de alta intensidad (ver apartado 1). Por eso el jueves es suave: llegas al viernes fresco y no metes tres días duros seguidos.
 - El viernes ya cuenta como **dos sesiones duras**. No hace falta añadir nada más.
 - El sábado es para recuperar del viernes: la tirada larga va el **domingo**, y el lunes llegas con piernas para las series.
+- **Si sale un plan con Javi** (tipo 8 km a 5:00): adelante, entrenar acompañado vale mucho, pero **cuenta como sesión de calidad**. Esa semana quita las series o el tempo más cercano y deja el día siguiente suave. Mejor aún si podéis cuadrarlo el día de tempo o de tirada larga (a 5:45–6:00).
 
 ## 4. Plan semana a semana
 
@@ -99,14 +131,18 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 
 ### Semana 0 · 16–20 sept (adaptación)
 - Jue: 30' corriendo en Z2 + 4 strides
-- Vie: híbrido + pachangas
-- Dom: 40' corriendo en Z2
+- Vie: híbrido + pachangas ✅
+- ~~Sáb: descanso~~ → 8 km a 4:58 con Javi (cuenta como sesión de tempo)
+- ~~Dom: 40' corriendo en Z2~~ → **descanso**. Como mucho 20–25' andando o trote muy suave (< 145) si las piernas lo piden
 
 ### Semana 1 · 21–27 sept (base + ⚠️ simulación de la strong race el dom 27/09)
-- Lun: 6×400 m a 3:50 /km, rec. 200 m trotando
-- Mar: 30' corriendo en Z2 + 6 strides
-- Mié: 4×1000 m a 4:25 (ritmo de la simulación), rec. 2'. Sirve para memorizar el ritmo
-- Jue: descanso o calistenia de tren superior muy ligera
+
+> Reajustada tras los 8 km del sábado 19: las series pasan al martes para no empezar la semana cargado.
+
+- Lun: 30' corriendo en Z2 + 4 strides. **Control**: si en el km 1–2 vas > 150 a 6:15, o la FC en reposo al despertar está 5+ ppm por encima de lo normal, quita los strides
+- Mar: 6×400 m a 3:50 /km, rec. 200 m trotando
+- Mié: 30' corriendo en Z2 + 6 strides · fuerza
+- Jue: 3×1000 m a 4:25 (ritmo de la simulación), rec. 2'. Sirve para memorizar el ritmo (una serie menos que lo previsto: faltan 3 días)
 - **Vie: híbrido ligero (sin trineo ni nada de piernas a tope) o solo pachangas suaves.** No las dos cosas a tope: faltan 48 h
 - Sáb: descanso o 15' corriendo muy suave + 3 strides
 - **Dom 27: SIMULACIÓN 5 km con Javi** (ver apartado 5 bis)
