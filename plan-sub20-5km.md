@@ -172,7 +172,7 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - Jue: 3×1000 m a 4:25 (ritmo de la simulación), rec. 2'. Sirve para memorizar el ritmo (una serie menos que lo previsto: faltan 3 días)
 - **Vie: híbrido ligero (sin trineo ni nada de piernas a tope) o solo pachangas suaves.** No las dos cosas a tope: faltan 48 h
 - Sáb: descanso o 15' corriendo muy suave + 3 strides
-- **Dom 27: SIMULACIÓN 5 km con Javi** (ver apartado 5 bis)
+- **Dom 27: SIMULACRO de la strong race con Javi** ✅ 36:12 (ver apartado 5 bis)
 - **Volumen ≈ 25 km** (contando las pachangas y la simulación)
 
 ### Semana 2 · 28 sept–4 oct (⚠️ carrera MEGA Hyathlon el sáb 3/10)
@@ -228,30 +228,55 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - Mié: 3×400 m a 3:50 + 15' corriendo suave
 - Jue: 20' corriendo muy suave + 3 strides
 - **Vie 6: sin híbrido y sin pachangas.** Descanso o 15' corriendo suave + 3 strides
-- **Sáb 7 / Dom 8: 5 km en ~20:00**
+- **Sáb 7 / Dom 8: *strong race* con Javi** (ver apartado 5)
 - **Volumen ≈ 18 km (sin contar la prueba)**
 
 > **Si la strong race cae en domingo 8**: el viernes, descanso total, y el sábado 15' corriendo muy suave + 3 strides. Aunque sea el domingo, **ese viernes tampoco hay híbrido ni pachangas**.
 
 ## 5. Estrategia del día D (el día de la carrera)
 
-**Día D = el día de la *strong race* con Javi (sábado 7 o domingo 8 de noviembre)**, cuando intentas hacer los 5 km en unos 20:00. Todo el plan está pensado para llegar a ese día en tu mejor forma.
+**Día D = la *strong race* con Javi (sábado 7 o domingo 8 de noviembre)**. Objetivo: **puesto top en la categoría 16–29**, por parejas. Todo el plan está pensado para llegar a ese día en tu mejor forma.
 
+**Formato** (ver [strong-race-ejercicios.md](strong-race-ejercicios.md)): 10 × 500 m corriendo, con un ejercicio después de cada tramo. **Se corre a la vez**, así que la pareja va al ritmo del más lento. Las repeticiones y calorías de los ejercicios se reparten como queráis.
 
-- Recorrido **llano**, sin viento si puedes elegir. Calentamiento de 15' + 4 strides.
-- Parciales objetivo: **4:02 · 4:00 · 4:00 · 4:00 · 3:58** (no salgas a 3:45).
-- El km 4 es el que mata: estaba previsto, es donde se decide el sub-20.
-- La fecha exacta de la *strong race* (sábado 7 o domingo 8) aún no está confirmada. La semana 7 sirve para los dos casos: solo cambia el final (ver nota de la semana 7). Lo importante es que haya **48 h sin intensidad** antes de la carrera.
+**Lo que enseñó el simulacro del 27/09** (36:12 en total): la carrera fue el 45 % del tiempo y se hundió en la segunda mitad (los tramos 5–9 fueron 30–45 s más lentos que los dos primeros). Ahí está el margen más grande.
+
+**Estrategia:**
+
+- **Ritmo constante en la carrera: 4:10–4:20 /km** en todos los tramos (revisar tras el test del 18/10). Mira el ritmo del reloj, no el tiempo del tramo: el GPS falla en las entradas y salidas del gimnasio.
+- **Prohibido salir rápido.** En el simulacro, los dos primeros tramos fueron a ~3:20–3:30 /km y se pagaron a partir del 5. Los tramos 1–3 tienen que parecer fáciles.
+- **Tras los ejercicios de piernas** (zancadas, wallballs, SkiErg, remo, granjero), los primeros 100 m se hacen a ritmo y no a sprint para "recuperar": las piernas vuelven solas.
+- **Reparto de los ejercicios**: el que vaya más fresco hace más calorías en las máquinas (Air Bike, SkiErg, remo), que es donde más se sufre. Cambios cortos y frecuentes, sin esperar a estar reventado.
+- **Banda de pulso bien apretada** (en el simulacro se escurrió con el sudor), o el pulso de la muñeca.
+- Calentamiento: 15' corriendo suave + 4 strides + unas repeticiones sueltas de wallball y zancadas.
+- La fecha exacta (sábado 7 o domingo 8) aún no está confirmada. La semana 7 sirve para los dos casos: solo cambia el final (ver nota de la semana 7). Lo importante es que haya **48 h sin intensidad** antes de la carrera.
+
+**Y el sub-20 en 5 km** sigue siendo el objetivo personal, y el motor que se necesita para lo anterior. Se mide en el **test del 18/10** y se intenta en un 5 km en llano después de la *strong race*, con los parciales **4:02 · 4:00 · 4:00 · 4:00 · 3:58** (no salgas a 3:45).
 
 ## 5 bis. Simulación del domingo 27/09
 
-Es un **ensayo de la strong race**, no la carrera: se trata de probar la rutina y medir dónde estás tras dos semanas de plan.
+✅ Hecho. Fue la *strong race* completa (10 × 500 m + 10 ejercicios), no un 5 km seguido: **36:12**.
 
-- Mismo protocolo que el día D: desayuno, calentamiento de 15' + 4 strides, y a ser posible **recorrido llano**.
-- **Objetivo: ≤ 22:00** (4:24 /km) en llano. Tu referencia en llano es ~22:35, así que ≤ 22:00 ya sería una mejora real.
-- Parciales: **4:28 · 4:25 · 4:25 · 4:25 · lo que quede**. Nada de salir a 4:15: lo que se prueba es un **ritmo constante**, sobre todo que el km 4 no se hunda.
-- Apunta cómo te sienta el calentamiento y el desayuno: lo que funcione se repite en noviembre.
-- Sube el .fit a `entrenos-realizados-fits/`.
+Tiempos de cada tramo (±10–15 s). Los tramos de carrera salen más cortos de 500 m porque la entrada y la salida del gimnasio caen en el ejercicio; ver [notas sobre los datos](notas-sobre-los-datos.md).
+
+| # | Carrera | Ejercicio | Ejercicio (con transición) |
+|---|---|---|---|
+| 1 | 1:11 | Zancadas hacia atrás ×40 | 1:21 |
+| 2 | 1:27 | Air Bike, 30 cal | 1:53 |
+| 3 | 1:32 | Pasadas de cajón ×40 | 1:29 |
+| 4 | 1:36 | Abdominales con balón ×40 | 1:48 |
+| 5 | 1:46 | Wallballs ×40 | 1:50 |
+| 6 | 1:56 | SkiErg 500 m | 2:04 |
+| 7 | 1:41 | Paseo del granjero 100 m | 1:25 |
+| 8 | 1:51 | Remo 500 m | 2:24 |
+| 9 | 1:56 | Cargadas de balón ×40 | 2:02 |
+| 10 | 1:26 | Burpees con mancuernas ×30 | 2:21 |
+| **Total** | **≈ 16:20 (45 %)** | | **≈ 18:40 (52 %)** |
+
+- **Salida demasiado rápida** (~3:20–3:30 /km en los tramos 1–2) y la carrera se hunde del 5 al 9: 30–45 s más por tramo.
+- Lo más lento de los ejercicios son las máquinas (remo, SkiErg y Air Bike): es donde manda el aeróbico.
+- La banda de pulso se escurrió con el sudor: **el pulso no es fiable**.
+- Conclusiones aplicadas en la estrategia del día D (apartado 5).
 
 ## 6. Cadencia: "mover las piernas rápido"
 
@@ -388,13 +413,9 @@ Elige uno (o alterna):
 
 ## 8. Seguimiento
 
-Sube cada .fit a `entrenos-realizados-fits/`. Hay dos puntos de control:
+Sube cada .fit a `entrenos-realizados-fits/`.
 
-**Simulación del domingo 27/09**:
-
-- ≤ 21:45 → vas por delante: bajar 5 s/km los ritmos de series y tempo.
-- 21:45–22:15 → según lo previsto, mantener el plan.
-- > 22:15 → más Z2 y menos intensidad hasta la Hyathlon; revisar en el test del 18/10.
+**Simulación del domingo 27/09**: fue el formato híbrido completo, no un 5 km, así que **no cambia los ritmos de entrenamiento** (ver apartado 5 bis). El primer ajuste se hace con el test.
 
 **Test del domingo 18/10**:
 

@@ -61,6 +61,13 @@ Comparar el híbrido o las pachangas de un viernes con el anterior **no mide la 
 - La cadencia se escribía a veces en "ppm": es **spm** (pasos por minuto).
 - El rodaje del 17/09 se describió como "a 6:15". La media fue de 6:42 (km 1–3 a ~6:20, luego más lento). Además, el reloj estuvo **11 minutos en pausa** (timer 38' frente a 49' en total).
 
+### 4. Sesiones incompletas o sin pulso (semana 1)
+
+- **Pachangas del 25/09**: el reloj se cortó a los 30' (el nombre del .fit lo avisa) y **no hay pulso**. Para la carga se estima ×2 (≈ 1 h, ≈ 3,2 km). Con la cadencia media ~26 spm, fue sobre todo andar o estar parado: no se puede decir nada de la intensidad.
+- **Simulacro de la strong race (27/09)**: las vueltas del reloj mezclan carrera y ejercicios. Para separar los 10 tramos de carrera se usó la **cadencia × 2 ≥ 140**. La distancia de cada tramo (430–550 m) es aproximada: los cortes son imprecisos y el GPS no es fiable en el gimnasio. En el tramo 6 **se perdió el pulso** (marca 82): no lo uses. Además, **la banda se escurría por el sudor**, así que el pulso de todo el simulacro es dudoso (p. ej., el tramo 5 marca 146). Solo son fiables los tiempos.
+- **Los tramos de carrera salen más cortos de 500 m** (GPS: 350–480 m, a "3:21 /km"). Al cortar por velocidad se pierden la aceleración y la frenada, que caen en el tiempo del ejercicio. Usa los **tiempos** de cada tramo (±10–15 s), no el ritmo por km.
+- **La strong race no es un 5 km seguido**: son 10 × 500 m con 10 ejercicios entre medias (ver [strong-race-ejercicios.md](strong-race-ejercicios.md)). Su tiempo no se puede comparar con los umbrales de 5 km del plan.
+
 ## Cómo analizar un .fit nuevo (checklist)
 
 1. Pasar las horas a hora local (+2 h / +1 h).
