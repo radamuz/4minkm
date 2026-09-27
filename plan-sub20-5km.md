@@ -413,7 +413,7 @@ Elige uno (o alterna):
 
 ## 8. Seguimiento
 
-Sube cada .fit a `entrenos-realizados-fits/`.
+Sube cada .fit a `entrenos-realizados-fits/`, en la subcarpeta de su fecha (`AAAAMMDD/`).
 
 **Simulación del domingo 27/09**: fue el formato híbrido completo, no un 5 km, así que **no cambia los ritmos de entrenamiento** (ver apartado 5 bis). El primer ajuste se hace con el test.
 

@@ -1,6 +1,6 @@
 # 4minkm
 
-Plan de entrenamiento para bajar de 20' en 5 km (Jekyll, en español). Los entrenos van en `entrenos-realizados-fits/`.
+Plan de entrenamiento para bajar de 20' en 5 km (Jekyll, en español). Los entrenos van en `entrenos-realizados-fits/AAAAMMDD/` (una subcarpeta por día).
 
 **Antes de analizar cualquier .fit, lee [notas-sobre-los-datos.md](notas-sobre-los-datos.md).** Resumen:
 
