@@ -1,0 +1,26 @@
+mega-hyatlon-ejercicios.md
+  h_2427734025f0b6 1-16
+index.md
+  s_c6a70a605124d2::t_1a9f629d62e8b8 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ca8165639e15b8c87357a720ba0077993cf7018c",
+  "prompts": {},
+  "humans": {
+    "h_2427734025f0b6": {
+      "author": "Raul Adamuz <radamuzc@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_c6a70a605124d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1dcd6d04-5809-43e9-9689-04f0432cc824",
+        "model": "unknown"
+      },
+      "human_author": "Raul Adamuz <radamuzc@gmail.com>"
+    }
+  }
+}
