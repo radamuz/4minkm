@@ -176,21 +176,21 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - **Volumen ≈ 25 km** (contando las pachangas y la simulación)
 
 ### Semana 2 · 28 sept–4 oct (⚠️ carrera MEGA Hyathlon el sáb 3/10)
-- Lun: 30' corriendo muy suave (piernas de la simulación)
-- Mar: 4×800 m a 4:05, rec. 2' (una serie menos que lo previsto: vienes de la simulación y el sábado hay carrera)
-- Mié: 25' corriendo en Z2 + 4 strides
-- Jue: descanso
-- **Vie: sin híbrido.** Pachangas solo si juegas suave, mejor saltártelas
-- **Sáb: carrera MEGA Hyathlon**
+- Lun: 30' corriendo muy suave (piernas de la simulación) ✅ 3,8 km a ~8:00 con tu novia y con cuestas, FC 117
+- Mar: 4×800 m a 4:05, rec. 2' ✅ 4:00 · 4:01 · 4:05 · 3:54 (FC máx 172 → 185)
+- Mié: 25' corriendo en Z2 + 4 strides ✅ 4 km a 6:26, FC 136
+- Jue: descanso ✅
+- **Vie: sin híbrido.** Pachangas solo si juegas suave, mejor saltártelas ✅
+- **Sáb: carrera MEGA Hyathlon** ✅ 45:30, 7.º de 27 en la categoría y 26.º de 120 (ver apartado 5 ter)
 - Dom: descanso o 30' corriendo muy suave
-- **Volumen ≈ 20 km**
+- **Volumen ≈ 20 km** ✅ ≈ 19 km
 
 ### Semana 3 · 5–11 oct (umbral)
-- Lun: 8×400 m a 3:48, rec. 200 m
-- Mar: 40' corriendo en Z2 + 6 strides
-- Mié: tempo 3×8' a 4:25, rec. 2'
-- Jue: calistenia de tren superior **o** 30' corriendo muy suave
-- Vie: híbrido (sin trineo pesado) + pachangas
+- Lun: 8×400 m a 3:48, rec. 200 m ✅ 3:32–3:48 (media 3:41), FC máx 180
+- Mar: 40' corriendo en Z2 + 6 strides ✅ 5 km a ~8:00 (con tu novia), FC 119
+- Mié: tempo 3×8' a 4:25, rec. 2' ✅ las tres a 4:23–4:25, FC final de cada una 173 · 178 · 180
+- Jue: calistenia de tren superior **o** 30' corriendo muy suave ✅ 30' a 6:15, FC 134
+- Vie: híbrido (sin trineo pesado) + pachangas ✅ híbrido por equipos de 4 (36', FC 150), suave
 - Dom: 55' corriendo en Z2
 - **Volumen ≈ 35 km**
 
@@ -249,6 +249,7 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - **Reparto de los ejercicios**: el que vaya más fresco hace más calorías en las máquinas (Air Bike, SkiErg, remo), que es donde más se sufre. Cambios cortos y frecuentes, sin esperar a estar reventado.
 - **Banda de pulso bien apretada** (en el simulacro se escurrió con el sudor), o el pulso de la muñeca.
 - Calentamiento: 15' corriendo suave + 4 strides + unas repeticiones sueltas de wallball y zancadas.
+- **Comida los dos días antes** (lección del Mega Hyathlon): comida normal, rica en hidratos (arroz, pasta, pan, patata) y **poca grasa y fibra**. Nada de comilonas, fritos, alioli ni alcohol a partir de 48 h antes. El desayuno de siempre (tortitas de arroz, plátano, miel y dátiles) funciona: no lo cambies.
 - La fecha exacta (sábado 7 o domingo 8) aún no está confirmada. La semana 7 sirve para los dos casos: solo cambia el final (ver nota de la semana 7). Lo importante es que haya **48 h sin intensidad** antes de la carrera.
 
 **Y el sub-20 en 5 km** sigue siendo el objetivo personal, y el motor que se necesita para lo anterior. Se mide en el **test del 18/10** y se intenta en un 5 km en llano después de la *strong race*, con los parciales **4:02 · 4:00 · 4:00 · 4:00 · 3:58** (no salgas a 3:45).
@@ -277,6 +278,28 @@ Tiempos de cada tramo (±10–15 s). Los tramos de carrera salen más cortos de 
 - Lo más lento de los ejercicios son las máquinas (remo, SkiErg y Air Bike): es donde manda el aeróbico.
 - La banda de pulso se escurrió con el sudor: **el pulso no es fiable**.
 - Conclusiones aplicadas en la estrategia del día D (apartado 5).
+
+## 5 ter. Carrera MEGA Hyathlon (sáb 03/10)
+
+✅ **45:30** con Javi: **7.º de 27** en la categoría (< 30) y **26.º de 120** en la general. Formato: 6 × 1000 m con un ejercicio después de cada uno (ver [mega-hyatlon-ejercicios.md](mega-hyatlon-ejercicios.md)).
+
+Tramos separados por cadencia (× 2 ≥ 140), ±10–15 s:
+
+| # | Carrera (~1 km) | FC media / máx | Ejercicio | Tiempo |
+|---|---|---|---|---|
+| 1 | **3:37** (~950 m GPS) | 173 / 179 | SkiErg 1000 m | 3:50 |
+| 2 | 4:25 | 180 / 182 | Sled push 50 m | 1:28 |
+| 3 | 4:43 | 182 / 184 | Burpees con salto 80 m | 2:00 |
+| 4 | 4:47 | 183 / 186 | Remo 1000 m | **4:12** |
+| 5 | 4:34 | 182 / 188 | Zancadas 100 m | 3:14 |
+| 6 | 4:32 | 186 / 190 | Wallballs ×100 | 3:19 |
+| **Total** | **≈ 26:40 (59 %)** | | | **≈ 18:05** |
+
+- **Otra vez salida rápida**: el primer km fue a ~3:50 /km (aunque el GPS se queda corto, como mucho ~3:40–3:55). Después, 4:25 y se hunde a 4:43–4:47 en los tramos 3–4. Es el mismo error del simulacro.
+- **Pulso**: 84 % del tiempo por encima de 172 y 21 % por encima de 185. Ibas al límite casi toda la carrera.
+- **Dónde estaban los 2 minutos**: con los km a ritmo constante de 4:30 (en vez de 3:37 y luego 4:43–4:47) se pierde poco al principio y se ganan 30–40 s; el remo (4:12) y las zancadas (3:14) son lo más lento, y ahí entran otro minuto largo con mejor reparto y transiciones. 43' era realista.
+- **La comilona del día antes** (porcella, frito mallorquín, alioli, pudding y chupito) es la explicación más probable de la sensación de pesadez: mucha grasa y alcohol se digieren lento. **No se puede medir con el .fit** (no hay una carrera igual sin comilona para comparar), pero es fácil de evitar el día D (ver apartado 5).
+- **No sirve para medir el 5 km**: carrera fragmentada con ejercicios de piernas en medio (ver [notas sobre los datos](notas-sobre-los-datos.md)).
 
 ## 6. Cadencia: "mover las piernas rápido"
 
@@ -424,3 +447,21 @@ Sube cada .fit a `entrenos-realizados-fits/`, en la subcarpeta de su fecha (`AAA
 - > 21:30 → apuntar al **objetivo C (< 21:30)** y revisar carga y descanso.
 
 > Si el recorrido de la simulación o del test no es llano, contrastar el desnivel con el DEM antes de sacar conclusiones (ver [notas sobre los datos](notas-sobre-los-datos.md)).
+
+## 9. Cómo vas (balance a 10/10, semana 3)
+
+**Bien. Has cumplido todas las sesiones de las semanas 2 y 3, y todas las de calidad salieron en el ritmo o más rápido, sin ir al límite de pulso.**
+
+| Sesión | Objetivo | Real | FC máx |
+|---|---|---|---|
+| 4×800 m (29/09) | 4:05 | 4:00 · 4:01 · 4:05 · 3:54 | 185 |
+| 8×400 m (05/10) | 3:48 | 3:32–3:48 (media 3:41) | 180 |
+| Tempo 3×8' (07/10) | 4:25 | 4:23–4:25 en las tres | 180 |
+
+- **Lo más prometedor es el tempo**: 24' a 4:24 con la FC subiendo de 160 a 178–180 al final de cada bloque, es decir, en el **umbral bajo**. El 19/09, los 8 km a 4:58 ya te llevaban a 180–184 (con fatiga del viernes, así que la comparación es orientativa: son sesiones distintas).
+- **Las series cortas te salen fáciles**: 8×400 a 3:41 con la FC máxima en 180, sin llegar a zona VO2max. Clavar el ritmo exacto es difícil: **±5 s/km es perfectamente válido**. Truco: mira el ritmo de la vuelta (*lap pace*), no el instantáneo, y en los primeros 100 m de cada serie frena un poco.
+- **Rodajes muy lentos con tu novia** (28/09 y 06/10 a 7:00–10:00 /km, FC 113–131): **no hay problema**. Por debajo de 150 todo suma base aeróbica, y más tiempo con las piernas en marcha también cuenta. Lo único que se pierde es algo de técnica: a 8:00 la zancada se parece poco a la de correr rápido. Con que **un rodaje a la semana sea a 6:00–6:30** (ahí vas a 134–140) y acabes los lentos con los strides, vale.
+- **Cadencia estancada en 156–158 spm** en los rodajes (en las series sí llegas a 160–172). Toca insistir en el objetivo de 160 (contar 20 apoyos de un pie en 15", apartado 6).
+- **Carreras con Javi**: en las dos (simulacro y Mega Hyathlon) saliste demasiado rápido y te hundiste a mitad. Es el punto más fácil de mejorar el día D.
+
+**¿Y el sub-20?** Un tempo de 24' a 4:24 en el umbral bajo apunta a un 5 km de **~20:45–21:15**: mejor que los 22:35 de partida y dentro del objetivo B, pero aún sin pruebas firmes. El **test del domingo 18/10** lo dirá. Sigue el plan tal cual: mañana, 55' en Z2 (a 6:00–6:30, no a 8:00) y la semana 4 sin cambios.

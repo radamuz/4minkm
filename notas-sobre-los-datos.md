@@ -68,6 +68,12 @@ Comparar el híbrido o las pachangas de un viernes con el anterior **no mide la 
 - **Los tramos de carrera salen más cortos de 500 m** (GPS: 350–480 m, a "3:21 /km"). Al cortar por velocidad se pierden la aceleración y la frenada, que caen en el tiempo del ejercicio. Usa los **tiempos** de cada tramo (±10–15 s), no el ritmo por km.
 - **La strong race no es un 5 km seguido**: son 10 × 500 m con 10 ejercicios entre medias (ver [strong-race-ejercicios.md](strong-race-ejercicios.md)). Su tiempo no se puede comparar con los umbrales de 5 km del plan.
 
+### 5. Carreras híbridas: las vueltas automáticas no sirven (Mega Hyathlon, 03/10)
+
+- El reloj cortó una vuelta por km de GPS, así que mezcla carrera y ejercicio (p. ej., una "vuelta" de 8:38). Los tramos se separaron por **cadencia × 2 ≥ 140**, fusionando cortes de menos de 20 s.
+- El primer tramo marca ~950 m: el GPS se queda corto en la salida. El ritmo del primer km es aproximado (~3:40–3:55 /km).
+- La pesadez por la comida del día anterior **no se puede medir** con el .fit: no hay una carrera equivalente para comparar.
+
 ## Cómo analizar un .fit nuevo (checklist)
 
 1. Pasar las horas a hora local (+2 h / +1 h).
