@@ -191,11 +191,11 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - Mié: tempo 3×8' a 4:25, rec. 2' ✅ las tres a 4:23–4:25, FC final de cada una 173 · 178 · 180
 - Jue: calistenia de tren superior **o** 30' corriendo muy suave ✅ 30' a 6:15, FC 134
 - Vie: híbrido (sin trineo pesado) + pachangas ✅ híbrido por equipos de 4 (36', FC 150), suave
-- Dom: 55' corriendo en Z2
-- **Volumen ≈ 35 km**
+- Dom: 55' corriendo en Z2 ✅ 9 km a 6:14, FC 135
+- **Volumen ≈ 35 km** ✅ ≈ 34 km
 
 ### Semana 4 · 12–18 oct (carga + TEST)
-- Lun: 5×1000 m a 4:05, rec. 2'30"
+- Lun: 5×1000 m a 4:05, rec. 2'30" ✅ 4:08 · 4:04 · 4:01 · 4:08 · 4:05 (media 4:05), FC máx 173 → 184
 - Mar: 40' corriendo en Z2 + 6 strides
 - Mié: 30' corriendo en Z2 + 4 strides (sin tempo esta semana, por el test)
 - Jue: calistenia de tren superior o descanso
@@ -463,5 +463,10 @@ Sube cada .fit a `entrenos-realizados-fits/`, en la subcarpeta de su fecha (`AAA
 - **Rodajes muy lentos con tu novia** (28/09 y 06/10 a 7:00–10:00 /km, FC 113–131): **no hay problema**. Por debajo de 150 todo suma base aeróbica, y más tiempo con las piernas en marcha también cuenta. Lo único que se pierde es algo de técnica: a 8:00 la zancada se parece poco a la de correr rápido. Con que **un rodaje a la semana sea a 6:00–6:30** (ahí vas a 134–140) y acabes los lentos con los strides, vale.
 - **Cadencia estancada en 156–158 spm** en los rodajes (en las series sí llegas a 160–172). Toca insistir en el objetivo de 160 (contar 20 apoyos de un pie en 15", apartado 6).
 - **Carreras con Javi**: en las dos (simulacro y Mega Hyathlon) saliste demasiado rápido y te hundiste a mitad. Es el punto más fácil de mejorar el día D.
+
+**Actualización 12/10:**
+
+- **Tirada de 55'** (11/10): 9 km a 6:14 con pulso 135 y el 98 % del tiempo por debajo de 150. Ritmo de Z2 perfecto.
+- **5×1000 m** (12/10): media de **4:05, justo el ritmo marcado**, con poca dispersión (4:01–4:08). El pulso máximo sube de 173 a 184 de la primera a la última serie, sin llegar a 185. Es la sesión más cercana al ritmo de 5 km que has hecho, y la terminaste con margen.
 
 **¿Y el sub-20?** Un tempo de 24' a 4:24 en el umbral bajo apunta a un 5 km de **~20:45–21:15**: mejor que los 22:35 de partida y dentro del objetivo B, pero aún sin pruebas firmes. El **test del domingo 18/10** lo dirá. Sigue el plan tal cual: mañana, 55' en Z2 (a 6:00–6:30, no a 8:00) y la semana 4 sin cambios.

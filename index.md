@@ -40,3 +40,5 @@ Objetivo: **5 km en menos de 20 minutos (4:00 /km)** el 7 u 8 de noviembre de 20
 - [Tempo 3×8' a 4:24 /km (07/10/2026)](entrenos-realizados-fits/20261007/tempo%203×8’%20a%204:25,%20rec.%202’.fit)
 - [30' corriendo muy suave (08/10/2026)](entrenos-realizados-fits/20261008/30’%20corriendo%20muy%20suave.fit)
 - [Híbrido por equipos de 4: 36' (09/10/2026)](entrenos-realizados-fits/20261009/híbrido.fit) · [pizarra](entrenos-realizados-fits/20261009/híbrido.jpg)
+- [55' en Z2: 9 km a 6:14 (11/10/2026)](entrenos-realizados-fits/20261011/55’%20corriendo%20en%20Z2.fit)
+- [5×1000 m a 4:05 /km (12/10/2026)](entrenos-realizados-fits/20261012/5×1000%20m%20a%204:05,%20rec.%202’30”.fit)
