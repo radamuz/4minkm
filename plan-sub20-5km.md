@@ -202,6 +202,17 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - **Vie: híbrido ligero o solo pachangas** (no las dos cosas a tope)
 - Sáb: descanso o 15' corriendo muy suave + 3 strides
 - **Dom 18: TEST 5 km en llano**. Objetivo ≤ 21:15. Salida a 4:15 y apretar desde el km 3.
+
+  | Km | Ritmo | Cómo debe sentirse |
+  |---|---|---|
+  | 1 | 4:15–4:18 | Fácil, frenándote. **Nunca por debajo de 4:10** |
+  | 2 | 4:15 | Controlado |
+  | 3 | 4:12 | Empiezas a apretar |
+  | 4 | 4:10 | El km duro: no lo dejes caer (el 09/09 se hundió aquí) |
+  | 5 | Lo que quede | Todo; sprint en los últimos 300 m |
+
+  Total ≈ **21:00**. Si en el km 3 vas sobrado, aprieta antes. Vuelta automática cada 1 km y guíate por el ritmo de la vuelta.
+  Calentamiento: 12–15' suave + movilidad + 4 strides; sales ~5' después. Desayuno de siempre 2–3 h antes.
 - **Volumen ≈ 30 km**
 
 ### Semana 5 · 19–25 oct (ritmo objetivo)
