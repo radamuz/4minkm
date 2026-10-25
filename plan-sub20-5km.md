@@ -255,10 +255,21 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 
 **Lo que enseñó el simulacro del 27/09** (36:12 en total): la carrera fue el 45 % del tiempo y se hundió en la segunda mitad (los tramos 5–9 fueron 30–45 s más lentos que los dos primeros). Ahí está el margen más grande.
 
+> **🔑 LA CLAVE: NINGÚN TRAMO DE 500 m POR DEBAJO DE 1:55** (3:50 /km). **Ni con la emoción de la salida, ni en el tramo 1, ni nunca.** Las dos veces que se ha salido más rápido (simulacro y Mega Hyathlon) se perdió con creces lo ganado.
+
 **Estrategia:**
 
-- **Ritmo constante en la carrera: 4:10–4:15 /km** en todos los tramos (revisado tras el test del 18/10: 21:15 con todos los km entre 4:11 y 4:18). Mira el ritmo del reloj, no el tiempo del tramo: el GPS falla en las entradas y salidas del gimnasio.
-- **Prohibido salir rápido.** En el simulacro, los dos primeros tramos fueron a ~3:20–3:30 /km y se pagaron a partir del 5. Los tramos 1–3 tienen que parecer fáciles.
+- **De menos a más** (revisado tras el test del 18/10: 21:15 con todos los km entre 4:11 y 4:18):
+
+  | Tramos | Cada 500 m | Ritmo |
+  |---|---|---|
+  | 1–3 | 2:05 | 4:10 /km. Tiene que parecer fácil |
+  | 4–7 | 2:00–2:05 | 4:00–4:10, si vais bien |
+  | 8–10 | Lo que quede | A tope, **pero nunca por debajo de 1:55** |
+
+  La emoción empuja a ir más rápido: el reto no es correr, es **frenarse en el tramo 1**. Si en el tramo 8 vais adelantando parejas, ha funcionado.
+- **La carrera es en el velódromo Palma Arena, no en el box del RS Training**: el tiempo del simulacro (36:12) no sirve para predecir el final. **Se corre bajo techo**, así que **el GPS no dará un ritmo fiable**: guíate por el **tiempo de cada tramo** (vuelta manual al empezar y acabar cada 500 m) y por sensaciones. Entérate antes de cuánto mide de verdad cada vuelta del circuito. Los tiempos de la tabla valen si cada tramo mide 500 m reales; ajústalos cuando veáis el circuito.
+- **Prohibido salir rápido.** En el simulacro, los dos primeros tramos fueron a ~3:20–3:30 /km y se pagaron a partir del 5. En el Mega Hyathlon, el primer km a ~3:40–3:55 y luego 4:43–4:47.
 - **Tras los ejercicios de piernas** (zancadas, wallballs, SkiErg, remo, granjero), los primeros 100 m se hacen a ritmo y no a sprint para "recuperar": las piernas vuelven solas.
 - **Reparto de los ejercicios**: el que vaya más fresco hace más calorías en las máquinas (Air Bike, SkiErg, remo), que es donde más se sufre. Cambios cortos y frecuentes, sin esperar a estar reventado.
 - **Banda de pulso bien apretada** (en el simulacro se escurrió con el sudor), o el pulso de la muñeca.
@@ -304,6 +315,24 @@ Tiempos de cada tramo (±10–15 s). Los tramos de carrera salen más cortos de 
 | 9 | 1:56 | Cargadas de balón ×40 | 2:02 |
 | 10 | 1:26 | Burpees con mancuernas ×30 | 2:21 |
 | **Total** | **≈ 16:20 (45 %)** | | **≈ 18:40 (52 %)** |
+
+**Ritmo de cada tramo, pasado a 500 m** (para compararlo con la regla de 1:55 del apartado 5). Es otro corte del mismo .fit, menos estricto (fusiona cortes de menos de 20 s), así que los tiempos no coinciden con la tabla de arriba. ±10–15 s.
+
+| Tramo | Tiempo | Distancia (GPS) | Ritmo | 500 m a ese ritmo | ¿< 1:55? |
+|---|---|---|---|---|---|
+| 1 | 1:29 | 445 m | 3:19 /km | **1:39** | ❌ |
+| 2 | 1:50 | 463 m | 3:57 /km | 1:58 | ✅ |
+| 3 | 1:42 | 431 m | 3:56 /km | 1:58 | ✅ |
+| 4 | 1:50 | 446 m | 4:06 /km | 2:03 | ✅ |
+| 5 | 1:51 | 501 m | 3:41 /km | **1:50** | ❌ |
+| 6 | 2:25 | 512 m | 4:43 /km | 2:21 | ✅ |
+| 7 | 2:05 | 471 m | 4:25 /km | 2:12 | ✅ |
+| 8 | 2:25 | 479 m | 5:02 /km | **2:31** | ✅ (hundido) |
+| 9 | 2:11 | 480 m | 4:32 /km | 2:16 | ✅ |
+| 10 | 1:53 | 463 m | 4:04 /km | 2:02 | ✅ |
+
+- **Tramo 1 a 1:39**: 16 s por debajo del límite de 1:55. El tramo 5 también bajó de 1:55, y justo después llegó el hundimiento (2:12–2:31 del 6 al 9).
+- **Media ≈ 2:05 por 500 m**: el ritmo medio ya era el objetivo, pero hecho a tirones. A ritmo constante se va más rápido con la misma energía.
 
 - **Salida demasiado rápida** (~3:20–3:30 /km en los tramos 1–2) y la carrera se hunde del 5 al 9: 30–45 s más por tramo.
 - Lo más lento de los ejercicios son las máquinas (remo, SkiErg y Air Bike): es donde manda el aeróbico.
