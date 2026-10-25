@@ -1,5 +1,7 @@
 # 4minkm
 
+> Este repositorio es el origen de **[KM](https://km.moix.top)**, la app web con IA que lleva este método a cualquier deportista. Se mantiene como registro histórico.
+
 Objetivo: **5 km en menos de 20 minutos (4:00 /km)** (día D: *strong race*, sábado 7 de noviembre de 2026).
 
 - [Plan de entrenamiento sub-20'](plan-sub20-5km.md)

@@ -231,7 +231,6 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - Mar: 3×1600 m a **4:05**, rec. 3'. Si a mitad de la segunda vas al límite, quédate en 2
 - Mié: 40' corriendo en Z2 + 6 strides
 - Jue: 2 km a 4:10 + 3' corriendo suave + 2×1 km a 4:00, rec. 2'
-- Jue: calistenia de tren superior o descanso
 - Vie: híbrido corto (40') + pachangas suaves
 - Dom: 45' corriendo en Z2
 - **Volumen ≈ 33 km**
