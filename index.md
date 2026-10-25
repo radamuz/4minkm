@@ -1,9 +1,9 @@
 # 4minkm
 
-Objetivo: **5 km en menos de 20 minutos (4:00 /km)** el 7 u 8 de noviembre de 2026.
+Objetivo: **5 km en menos de 20 minutos (4:00 /km)** (día D: *strong race*, sábado 7 de noviembre de 2026).
 
 - [Plan de entrenamiento sub-20'](plan-sub20-5km.md)
-- [Calendario de carreras oficiales](calendario-carreras-oficiales.md)
+- [Calendario de carreras oficiales](calendario-carreras-oficiales.md) · [horarios de la strong race](horarios-strong-race-noviembre-2026.jpg)
 - [Ejercicios de la Strong Race](strong-race-ejercicios.md)
 - [Ejercicios de la Mega Hyatlon](mega-hyatlon-ejercicios.md)
 - [Alimentación](https://radamuz.github.io/alimentacion/)
@@ -43,3 +43,13 @@ Objetivo: **5 km en menos de 20 minutos (4:00 /km)** el 7 u 8 de noviembre de 20
 - [Híbrido por equipos de 4: 36' (09/10/2026)](entrenos-realizados-fits/20261009/híbrido.fit) · [pizarra](entrenos-realizados-fits/20261009/híbrido.jpg)
 - [55' en Z2: 9 km a 6:14 (11/10/2026)](entrenos-realizados-fits/20261011/55’%20corriendo%20en%20Z2.fit)
 - [5×1000 m a 4:05 /km (12/10/2026)](entrenos-realizados-fits/20261012/5×1000%20m%20a%204:05,%20rec.%202’30”.fit)
+- [40' en Z2 (13/10/2026)](entrenos-realizados-fits/20261013/40’%20corriendo%20en%20Z2.fit)
+- [6 strides (13/10/2026)](entrenos-realizados-fits/20261013/6%20strides.fit)
+- [30' en Z2 (14/10/2026)](entrenos-realizados-fits/20261014/30’%20corriendo%20en%20Z2.fit)
+- [4 strides (14/10/2026)](entrenos-realizados-fits/20261014/4%20strides.fit)
+- [Test 5 km: 21:15 (18/10/2026)](entrenos-realizados-fits/20261018/test%205k%20max.fit)
+- [40' corriendo muy suave (19/10/2026)](entrenos-realizados-fits/20261019/40’%20corriendo%20muy%20suave.fit)
+- [6×1000 m a 4:02 /km (20/10/2026)](entrenos-realizados-fits/20261020/5×1000%20m%20a%204:00,%20rec.%202’.fit) · [serie grabada aparte](entrenos-realizados-fits/20261020/1×1000%20m%20a%204:00,%20rec.%202’.fit)
+- [30' en Z2 (21/10/2026)](entrenos-realizados-fits/20261021/30’%20corriendo%20en%20Z2.fit) · [4 strides](entrenos-realizados-fits/20261021/4%20strides.fit)
+- [Híbrido 3×(1000 m + máquina + ejercicio) (23/10/2026)](entrenos-realizados-fits/20261023/Híbrido%20RS%20Training.fit) · [pizarra](entrenos-realizados-fits/20261023/entreno-en-pizarra.jpg)
+- [60' con 20' a 4:18 (25/10/2026)](entrenos-realizados-fits/20261025/60’%20con%2020’%20a%204:15%20en%20el%20medio.fit)

@@ -1,4 +1,4 @@
-# Plan sub-20' en 5 km (objetivo: 7/8 de noviembre de 2026)
+# Plan sub-20' en 5 km (día D: *strong race*, sábado 7 de noviembre de 2026)
 
 ## 1. Punto de partida (datos de los .fit)
 
@@ -196,12 +196,10 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 
 ### Semana 4 · 12–18 oct (carga + TEST)
 - Lun: 5×1000 m a 4:05, rec. 2'30" ✅ 4:08 · 4:04 · 4:01 · 4:08 · 4:05 (media 4:05), FC máx 173 → 184
-- Mar: 40' corriendo en Z2 + 6 strides
-- Mié: 30' corriendo en Z2 + 4 strides (sin tempo esta semana, por el test)
-- Jue: calistenia de tren superior o descanso
-- **Vie: híbrido ligero o solo pachangas** (no las dos cosas a tope)
-- Sáb: descanso o 15' corriendo muy suave + 3 strides
-- **Dom 18: TEST 5 km en llano**. Objetivo ≤ 21:15. Salida a 4:15 y apretar desde el km 3.
+- Mar: 40' corriendo en Z2 + 6 strides ✅ 6,5 km a 6:10, FC 132
+- Mié: 30' corriendo en Z2 + 4 strides (sin tempo esta semana, por el test) ✅ 4,9 km a 6:09, FC 132
+- ~~Jue–Sáb~~ → jue 15: excursión de 4 km · vie 16: paseo de 1 km · sáb 17: descanso total ✅
+- **Dom 18: TEST 5 km en llano** ✅ **21:15** (ver apartado 9). Objetivo ≤ 21:15. Salida a 4:15 y apretar desde el km 3.
 
   | Km | Ritmo | Cómo debe sentirse |
   |---|---|---|
@@ -216,18 +214,23 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - **Volumen ≈ 30 km**
 
 ### Semana 5 · 19–25 oct (ritmo objetivo)
-- Lun: 40' corriendo muy suave (piernas del test)
-- Mar: 6×1000 m a 4:00, rec. 2' (se mueve al martes por el test del domingo)
-- Mié: 30' corriendo en Z2 + 4 strides
-- Jue: calistenia de tren superior o descanso
-- Vie: híbrido + pachangas
-- Dom: 60' con **20' a 4:15 en el medio** (tempo metido en la tirada larga)
-- **Volumen ≈ 36 km (semana más dura)**
+- Lun: 40' corriendo muy suave (piernas del test) ✅ 6,5 km a 6:09, FC 125
+- Mar: 6×1000 m a 4:00, rec. 2' (se mueve al martes por el test del domingo) ✅ 3:57 · 4:06 · 4:05 · 4:00 · 4:07 · 3:59 (media **4:02**), FC máx 168 → 182. Una serie se grabó aparte
+- Mié: 30' corriendo en Z2 + 4 strides ✅ 5 km a 6:05, FC 134
+- Jue: calistenia de tren superior o descanso ✅ descanso
+- Vie: híbrido + pachangas ✅ híbrido (3 bloques: 1000 m + máquina + ejercicio; los km a 3:46 · 4:11 · ~3:45), sin pachangas
+- Sáb: ✅ yoga de brazos y hombros (45')
+- Dom: 60' con **20' a 4:15 en el medio** (tempo metido en la tirada larga) ✅ 11 km; los 20' a **4:18** de media (4:19 · 4:14 · 4:12 · 4:24 · 4:24), FC 157 → 180
+- **Volumen ≈ 36 km (semana más dura)** ✅ ≈ 34 km
 
 ### Semana 6 · 26 oct–1 nov (afinar)
-- Lun: 3×1600 m a 3:58, rec. 3'
-- Mar: 40' corriendo en Z2 + 6 strides
-- Mié: 2 km a 4:00 + 3' corriendo suave + 2×1 km a 3:55, rec. 2'
+
+> Reajustada el 25/10: llegas con agujetas y una semana entera de sesiones al 100 %. Las series pasan al martes y bajan un poco de ritmo.
+
+- Lun: descanso, o 30' corriendo muy suave (< 145) si las agujetas lo permiten
+- Mar: 3×1600 m a **4:05**, rec. 3'. Si a mitad de la segunda vas al límite, quédate en 2
+- Mié: 40' corriendo en Z2 + 6 strides
+- Jue: 2 km a 4:10 + 3' corriendo suave + 2×1 km a 4:00, rec. 2'
 - Jue: calistenia de tren superior o descanso
 - Vie: híbrido corto (40') + pachangas suaves
 - Dom: 45' corriendo en Z2
@@ -239,14 +242,14 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 - Mié: 3×400 m a 3:50 + 15' corriendo suave
 - Jue: 20' corriendo muy suave + 3 strides
 - **Vie 6: sin híbrido y sin pachangas.** Descanso o 15' corriendo suave + 3 strides
-- **Sáb 7 / Dom 8: *strong race* con Javi** (ver apartado 5)
+- **Sáb 7: *strong race* con Javi**, categoría open masculina (franja de 08:00 a 11:30; ver apartado 5)
 - **Volumen ≈ 18 km (sin contar la prueba)**
 
-> **Si la strong race cae en domingo 8**: el viernes, descanso total, y el sábado 15' corriendo muy suave + 3 strides. Aunque sea el domingo, **ese viernes tampoco hay híbrido ni pachangas**.
+> **Ensaya la mañana**: la carrera es temprano. Haz al menos una sesión de calidad de la semana 6 o 7 por la mañana, con el desayuno de siempre 2 h antes, igual que el día D (si sales a las 8:00, levántate sobre las 5:30–6:00). Ver [desayuno del día D](#desayuno-del-día-d).
 
 ## 5. Estrategia del día D (el día de la carrera)
 
-**Día D = la *strong race* con Javi (sábado 7 o domingo 8 de noviembre)**. Objetivo: **puesto top en la categoría 16–29**, por parejas. Todo el plan está pensado para llegar a ese día en tu mejor forma.
+**Día D = la *strong race* con Javi, sábado 7 de noviembre** (categoría open masculina, franja de 08:00 a 11:30; ver [horarios](horarios-strong-race-noviembre-2026.jpg)). Objetivo: **puesto top en la categoría**, por parejas. Todo el plan está pensado para llegar a ese día en tu mejor forma.
 
 **Formato** (ver [strong-race-ejercicios.md](strong-race-ejercicios.md)): 10 × 500 m corriendo, con un ejercicio después de cada tramo. **Se corre a la vez**, así que la pareja va al ritmo del más lento. Las repeticiones y calorías de los ejercicios se reparten como queráis.
 
@@ -254,14 +257,31 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 
 **Estrategia:**
 
-- **Ritmo constante en la carrera: 4:10–4:20 /km** en todos los tramos (revisar tras el test del 18/10). Mira el ritmo del reloj, no el tiempo del tramo: el GPS falla en las entradas y salidas del gimnasio.
+- **Ritmo constante en la carrera: 4:10–4:15 /km** en todos los tramos (revisado tras el test del 18/10: 21:15 con todos los km entre 4:11 y 4:18). Mira el ritmo del reloj, no el tiempo del tramo: el GPS falla en las entradas y salidas del gimnasio.
 - **Prohibido salir rápido.** En el simulacro, los dos primeros tramos fueron a ~3:20–3:30 /km y se pagaron a partir del 5. Los tramos 1–3 tienen que parecer fáciles.
 - **Tras los ejercicios de piernas** (zancadas, wallballs, SkiErg, remo, granjero), los primeros 100 m se hacen a ritmo y no a sprint para "recuperar": las piernas vuelven solas.
 - **Reparto de los ejercicios**: el que vaya más fresco hace más calorías en las máquinas (Air Bike, SkiErg, remo), que es donde más se sufre. Cambios cortos y frecuentes, sin esperar a estar reventado.
 - **Banda de pulso bien apretada** (en el simulacro se escurrió con el sudor), o el pulso de la muñeca.
 - Calentamiento: 15' corriendo suave + 4 strides + unas repeticiones sueltas de wallball y zancadas.
 - **Comida los dos días antes** (lección del Mega Hyathlon): comida normal, rica en hidratos (arroz, pasta, pan, patata) y **poca grasa y fibra**. Nada de comilonas, fritos, alioli ni alcohol a partir de 48 h antes. El desayuno de siempre (tortitas de arroz, plátano, miel y dátiles) funciona: no lo cambies.
-- La fecha exacta (sábado 7 o domingo 8) aún no está confirmada. La semana 7 sirve para los dos casos: solo cambia el final (ver nota de la semana 7). Lo importante es que haya **48 h sin intensidad** antes de la carrera.
+
+### Desayuno del día D
+
+Lo que hay que comer sí o sí son **hidratos fáciles de digerir**: el desayuno de siempre. Lo que cambia según el margen es la cantidad. **Sin café**.
+
+| | Levantarse 2 h antes (lo ideal) | Levantarse 1 h antes (emergencia) |
+|---|---|---|
+| Comida | 3–4 tortitas de arroz con miel + 1 plátano + 2–3 dátiles | 1 plátano **o** 2 tortitas con miel + 1–2 dátiles |
+| Bebida | 400–500 ml de agua | 250–300 ml de agua, a sorbos |
+| Cuándo acabar | 1:45–2 h antes de la salida | Lo antes posible |
+| 20–30' antes | Sorbos de agua y, si hay hambre, 1 dátil | Solo sorbos de agua |
+
+- **A 1 h: nada de grasa, proteína ni fibra extra.** No da tiempo a digerirlo y aparece el flato.
+- **Nada nuevo ese día**: ni geles, ni bebidas energéticas, ni otro desayuno.
+- **La cena de la víspera cuenta más que el desayuno**: temprana, con arroz, pasta o patata y poca grasa. Así el depósito llega lleno aunque el desayuno sea pequeño.
+- **Mira la hora exacta de vuestra salida**: 08:00–11:30 es la franja de toda la categoría. Si salís más tarde, hay margen para el plan de 2 h sin madrugar tanto.
+- **Ensáyalo**: la sesión de calidad por la mañana de las semanas 6–7 (ver semana 7) se hace con el desayuno a 2 h.
+- **Confirmado: sábado 7 por la mañana.** Lo importante es que haya **48 h sin intensidad** antes de la carrera. La cena del viernes, temprano y ligera.
 
 **Y el sub-20 en 5 km** sigue siendo el objetivo personal, y el motor que se necesita para lo anterior. Se mide en el **test del 18/10** y se intenta en un 5 km en llano después de la *strong race*, con los parciales **4:02 · 4:00 · 4:00 · 4:00 · 3:58** (no salgas a 3:45).
 
@@ -451,7 +471,7 @@ Sube cada .fit a `entrenos-realizados-fits/`, en la subcarpeta de su fecha (`AAA
 
 **Simulación del domingo 27/09**: fue el formato híbrido completo, no un 5 km, así que **no cambia los ritmos de entrenamiento** (ver apartado 5 bis). El primer ajuste se hace con el test.
 
-**Test del domingo 18/10**:
+**Test del domingo 18/10** ✅ **21:15** → objetivo B (< 20:45):
 
 - ≤ 21:00 → el **objetivo A (sub-20)** sigue vivo: mantener el plan.
 - 21:00–21:30 → apuntar al **objetivo B (< 20:45)**: salida a 4:08 y series de 1000 m a 4:05.
@@ -481,3 +501,56 @@ Sube cada .fit a `entrenos-realizados-fits/`, en la subcarpeta de su fecha (`AAA
 - **5×1000 m** (12/10): media de **4:05, justo el ritmo marcado**, con poca dispersión (4:01–4:08). El pulso máximo sube de 173 a 184 de la primera a la última serie, sin llegar a 185. Es la sesión más cercana al ritmo de 5 km que has hecho, y la terminaste con margen.
 
 **¿Y el sub-20?** Un tempo de 24' a 4:24 en el umbral bajo apunta a un 5 km de **~20:45–21:15**: mejor que los 22:35 de partida y dentro del objetivo B, pero aún sin pruebas firmes. El **test del domingo 18/10** lo dirá. Sigue el plan tal cual: mañana, 55' en Z2 (a 6:00–6:30, no a 8:00) y la semana 4 sin cambios.
+
+## 10. Balance a 25/10 (semana 5): test y semana de ritmo objetivo
+
+### El test del 18/10: 21:15
+
+| km | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Ritmo | 4:15 | 4:16 | 4:11 | 4:15 | 4:18 |
+| FC media | 153 | 172 | 178 | 181 | 183 |
+| Cadencia | 167 | 163 | 162 | 159 | 160 |
+
+El reloj marca 21:23 para 5,03 km; por las vueltas de 1 km, los 5 km exactos son **21:15**. Recorrido llano (DEM: 0–20 m, sin desnivel neto).
+
+- **−1:12 respecto al 09/09 (22:27), y −1:20 respecto a la marca equivalente en llano (~22:35) en 5 semanas: un 6 %**. Es justo la mejora que se esperaba de un plan bien hecho (5–8 %), y en la parte alta.
+- **Ritmo perfecto**: los 5 km en 7 segundos de diferencia (4:11–4:18), justo lo contrario del 09/09 (4:15–4:48). Seguiste la estrategia al pie de la letra: salida a 4:15 sin pasarte.
+- No pudiste apretar desde el km 3 ni hubo sprint final (el km 5 fue el más lento). Es decir, **21:15 era tu límite real de ese día**, no te guardaste nada.
+- La **cadencia cae de 167 a 159** al cansarte: cuando aprieta la fatiga, alargas la zancada. Es el punto técnico que queda.
+
+### La semana 5
+
+- **6×1000 m a 4:02** (20/10) con 2' de recuperación: ya ruedas series al ritmo del sub-20, pero **al 100 %**. Para un sub-20, esa sesión debería salir al 90 %.
+- **Híbrido** (23/10): los tres km a 3:46 · 4:11 · ~3:45 entre máquinas y ejercicios. Muy buena señal para la *strong race*.
+- **Tempo de 20' metido en la tirada** (25/10): 4:18 de media (objetivo 4:15), con el pulso en 157 → 180. **Por pulso sí fue umbral** (172–182), no un esfuerzo máximo: la sensación de ir al 100 % viene de la carga acumulada (test + series + híbrido, todo a tope en 7 días) y de que el tempo iba metido tras 3 km de rodaje. Los últimos 7' se cayeron a 4:24. **No es mala señal de forma: es fatiga.**
+
+### Evolución en Z2 (misma ruta del paseo, mismo tipo de rodaje)
+
+| Fecha | Ritmo medio | FC media |
+|---|---|---|
+| 17/09 | 6:42 | 138 |
+| 23/09 | 6:25 | 140 |
+| 30/09 | 6:26 | 136 |
+| 08/10 | 6:16 | 134 |
+| 13/10 | 6:10 | 132 |
+| 19/10 | 6:09 | **125** |
+| 21/10 | 6:05 | 134 |
+
+**30 s/km más rápido con 5–10 ppm menos en 5 semanas.** Es la mejora más clara de todo el plan: la base aeróbica ha crecido de verdad, tal como notas. (Hay que contar con que en septiembre hacía más calor, que sube el pulso; aun así, la tendencia es constante.) El VO2max que estima el reloj sube de 57 a 58, pero es una estimación de Garmin y no sirve para predecir marcas.
+
+La **cadencia en Z2 sigue en 156–160 spm**: no se ha movido desde septiembre.
+
+### ¿Cómo de cerca está el sub-20?
+
+| Indicador | Apunta a |
+|---|---|
+| Test del 18/10 | 21:15 (medido) |
+| 6×1000 a 4:02 al 100 %, rec. 2' | ~20:45–21:00 |
+| Tempo de 20' a 4:18 con fatiga | ~20:45–21:00 descansado |
+
+- **Proyección para principios de noviembre, descansado tras la puesta a punto: 20:40–21:00.** El objetivo B (< 20:45) es realista; el sub-20 este mes, muy improbable (faltaría otro 6 % en 2 semanas, y en esas 2 semanas toca descargar, no cargar).
+- **El sub-20 no está lejos: está a ~1:15, un 6 %, lo mismo que has bajado en el último mes.** No se repite al mismo ritmo (las mejoras van cada vez más despacio), pero con 8–12 semanas más de este plan (más volumen suave, un tempo largo por semana y cadencia a 165+) es un objetivo serio para invierno.
+- **Lo que más frena ahora**: hacerlo todo al 100 %. Esta semana tuviste test, series, híbrido y tempo a tope. Las series y el tempo rinden más al 90 %, y el día que hay que ir al 100 % es el de la carrera.
+
+**Para la *strong race***: con un 5 km a 4:15 de media y los km del híbrido a 3:45–4:10, **los tramos de 500 m a 4:10–4:15** son tu ritmo. Lo que más tiempo dará sigue siendo no salir a 3:30 los dos primeros.

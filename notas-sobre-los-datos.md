@@ -74,6 +74,15 @@ Comparar el híbrido o las pachangas de un viernes con el anterior **no mide la 
 - El primer tramo marca ~950 m: el GPS se queda corto en la salida. El ritmo del primer km es aproximado (~3:40–3:55 /km).
 - La pesadez por la comida del día anterior **no se puede medir** con el .fit: no hay una carrera equivalente para comparar.
 
+### 6. Semana 5 (18–25/10)
+
+- **Test del 18/10**: el reloj da 21:23 para 5,03 km. El tiempo de los 5 km exactos sale de las vueltas de 1 km: **21:15**. No uses el total de la sesión.
+- **6×1000 m del 20/10**: una serie quedó mal grabada (vueltas 2–4 de la primera actividad: una "recuperación" de 2' con 483 m a 4:09) y se repitió en otra actividad. Las 6 válidas son 3:57 · 4:06 · 4:05 · 4:00 · 4:07 · 3:59 (la última, en el .fit aparte). Las vueltas de "recuperación" de esa sesión no sirven.
+- **Tempo del 25/10**: los 20' empiezan en la vuelta 4 (1:10, 158 m) y acaban en la 9 (646 m): son 4,65 km en 20:00 = **4:18 /km**. Los km por GPS (4:17 · 4:14 · 4:21 · 4:45) no coinciden con el bloque: usa las vueltas.
+- **VO2max del reloj** (57 → 58): es una estimación de Garmin. No sirve para predecir marcas ni para medir la forma.
+- **Sensación de "100 %" frente al pulso**: en el tempo del 25/10 la sensación fue máxima, pero el pulso se quedó en 172–180 (umbral). Con fatiga acumulada la sensación sube antes que el pulso: no concluyas que el umbral ha empeorado.
+- Para comparar rodajes en Z2, el paseo marítimo (inicio ~39,555, 2,695) es la ruta de referencia: llano (DEM 0–9 m).
+
 ## Cómo analizar un .fit nuevo (checklist)
 
 1. Pasar las horas a hora local (+2 h / +1 h).
