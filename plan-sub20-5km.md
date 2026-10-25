@@ -269,6 +269,13 @@ Calentamiento en las sesiones de calidad: 12–15' corriendo suave + movilidad d
 
   La emoción empuja a ir más rápido: el reto no es correr, es **frenarse en el tramo 1**. Si en el tramo 8 vais adelantando parejas, ha funcionado.
 - **La carrera es en el velódromo Palma Arena, no en el box del RS Training**: el tiempo del simulacro (36:12) no sirve para predecir el final. **Se corre bajo techo**, así que **el GPS no dará un ritmo fiable**: guíate por el **tiempo de cada tramo** (vuelta manual al empezar y acabar cada 500 m) y por sensaciones. Entérate antes de cuánto mide de verdad cada vuelta del circuito. Los tiempos de la tabla valen si cada tramo mide 500 m reales; ajústalos cuando veáis el circuito.
+- **En el tramo 1 manda el cronómetro, no el pulso.** El pulso va 1–2' por detrás del esfuerzo y el tramo dura ~2': cuando avise, ya habrás ido rápido. En el Mega Hyathlon, con el primer km a ~3:40–3:55, el pulso medio solo marcó 173. Además, en la salida los nervios suben el pulso aunque vayas despacio.
+
+  | Tramos | Guía | Control |
+  |---|---|---|
+  | 1 | Cronómetro y sensaciones | A 2:05 por 500 m, los 250 m a **~1:02**. Poder decirle una frase entera a Javi |
+  | 2–7 | Tiempo del tramo + pulso | Mirar el pulso **al final de cada tramo de carrera** (al principio aún está alto por el ejercicio). **185 o más sostenido antes del tramo 6–7 = demasiado rápido** |
+  | 8–10 | Lo que quede | El pulso da igual; el límite de 1:55 sigue |
 - **Prohibido salir rápido.** En el simulacro, los dos primeros tramos fueron a ~3:20–3:30 /km y se pagaron a partir del 5. En el Mega Hyathlon, el primer km a ~3:40–3:55 y luego 4:43–4:47.
 - **Tras los ejercicios de piernas** (zancadas, wallballs, SkiErg, remo, granjero), los primeros 100 m se hacen a ritmo y no a sprint para "recuperar": las piernas vuelven solas.
 - **Reparto de los ejercicios**: el que vaya más fresco hace más calorías en las máquinas (Air Bike, SkiErg, remo), que es donde más se sufre. Cambios cortos y frecuentes, sin esperar a estar reventado.
