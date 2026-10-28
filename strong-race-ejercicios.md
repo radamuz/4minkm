@@ -39,7 +39,7 @@
 |---|---|---|
 | 1 | Reverse Lunge (40) | Entra **Javi 30** → **Raúl 10** (sale Raúl). |
 | 2 | Air Bike (30 cal) | Entra **Javi 5** → **Raúl 15** → **Javi 10** (sale Javi). Pocos cambios, que se pierde tiempo. |
-| 3 | Step Over Box (40) | Bloques de **10** alternos, 20 cada uno. Da igual quién entre y quién salga. |
+| 3 | Step Over Box (40) | Entra **Raúl 10** → **Javi 10** → **Raúl 10** → **Javi 10** (sale Javi). |
 | 4 | Sit Ups (40) | Entra **Javi 25** → **Raúl 15** (sale Raúl). |
 | 5 | Wallballs (40) | Entra **Raúl 25** → **Javi 15** (sale Javi). |
 | 6 | SkiErg (500 m) | Entra **Javi 200** → **Raúl 200** → **Javi 100** (sale Javi). |
