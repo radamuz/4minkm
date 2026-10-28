@@ -35,26 +35,23 @@
 
 ### Estaciones
 
-Tiempos estimados a partir del simulacro del 27/09 (ver [plan](plan-sub20-5km.md), apartado 5 bis), ±10–15 s:
+Tiempos reales del simulacro del 27/09 (ver [plan](plan-sub20-5km.md), apartado 5 bis), ±10–15 s. En el simulacro el reparto de las estaciones era otro.
 
-- **Run:** el ritmo de cada tramo del simulacro pasado a 500 m, sin bajar nunca de 1:55 (por eso los runs 1, 2 y 5 están a 1:55).
-- **WorkOut:** el tiempo de cada ejercicio con transición. En el simulacro el reparto era otro, así que es solo orientativo.
-- **Acumulado:** al acabar el WorkOut.
+- **Run:** tiempo de cada tramo. Miden 430–550 m, no 500 m, porque la entrada y la salida del gimnasio caen en el ejercicio.
+- **WorkOut:** tiempo de cada ejercicio, con la transición.
 
-| # | Run | Ejercicio | Reparto | WorkOut | Acumulado |
-|---|---|---|---|---|---|
-| 1 | 1:55 | Reverse Lunge (40) | Entra **Javi 30** → **Raúl 10** (sale Raúl). | 1:21 | 3:16 |
-| 2 | 1:55 | Air Bike (30 cal) | Entra **Javi 5** → **Raúl 15** → **Javi 10** (sale Javi). Pocos cambios, que se pierde tiempo. | 1:53 | 7:04 |
-| 3 | 1:58 | Step Over Box (40) | Entra **Raúl 10** → **Javi 10** → **Raúl 10** → **Javi 10** (sale Javi). | 1:29 | 10:31 |
-| 4 | 2:03 | Sit Ups (40) | Entra **Javi 25** → **Raúl 15** (sale Raúl). | 1:48 | 14:22 |
-| 5 | 1:55 | Wallballs (40) | Entra **Raúl 25** → **Javi 15** (sale Javi). | 1:50 | 18:07 |
-| 6 | 2:21 | SkiErg (500 m) | Entra **Javi 200** → **Raúl 200** → **Javi 100** (sale Javi). | 2:04 | 22:32 |
-| 7 | 2:12 | Farmer Carry (100 m) | Entra **Raúl 60 m** → **Javi 40 m** (sale Javi). | 1:25 | 26:09 |
-| 8 | 2:31 | Row (500 m) | Entra **Raúl 250** → **Javi 250** (sale Javi). | 2:24 | 31:04 |
-| 9 | 2:16 | DeadBall (40) | Entra **Javi 10** → **Raúl 10** → **Javi 10** → **Raúl 10** (sale Raúl). | 2:02 | 35:22 |
-| 10 | 2:02 | DumbBell Burpees (30) | Entra **Raúl 10** → **Javi 10** → **Raúl 5** → **Javi 5** (sale Javi). | 2:21 | **39:45** |
-| **Total** | **≈ 21:08** | | | **≈ 18:37** | **≈ 39:45** |
+| # | Run | Ejercicio | Reparto | WorkOut |
+|---|---|---|---|---|
+| 1 | 1:11 | Reverse Lunge (40) | Entra **Javi 30** → **Raúl 10** (sale Raúl). | 1:21 |
+| 2 | 1:27 | Air Bike (30 cal) | Entra **Javi 5** → **Raúl 15** → **Javi 10** (sale Javi). Pocos cambios, que se pierde tiempo. | 1:53 |
+| 3 | 1:32 | Step Over Box (40) | Entra **Raúl 10** → **Javi 10** → **Raúl 10** → **Javi 10** (sale Javi). | 1:29 |
+| 4 | 1:36 | Sit Ups (40) | Entra **Javi 25** → **Raúl 15** (sale Raúl). | 1:48 |
+| 5 | 1:46 | Wallballs (40) | Entra **Raúl 25** → **Javi 15** (sale Javi). | 1:50 |
+| 6 | 1:56 | SkiErg (500 m) | Entra **Javi 200** → **Raúl 200** → **Javi 100** (sale Javi). | 2:04 |
+| 7 | 1:41 | Farmer Carry (100 m) | Entra **Raúl 60 m** → **Javi 40 m** (sale Javi). | 1:25 |
+| 8 | 1:51 | Row (500 m) | Entra **Raúl 250** → **Javi 250** (sale Javi). | 2:24 |
+| 9 | 1:56 | DeadBall (40) | Entra **Javi 10** → **Raúl 10** → **Javi 10** → **Raúl 10** (sale Raúl). | 2:02 |
+| 10 | 1:26 | DumbBell Burpees (30) | Entra **Raúl 10** → **Javi 10** → **Raúl 5** → **Javi 5** (sale Javi). | 2:21 |
+| **Total** | **≈ 16:20** | | | **≈ 18:40** |
 
-- **Más que los 36:12 del simulacro** porque allí los tramos medían 430–510 m, no 500 m.
-- **Salida de los Wallballs hacia el 18:07**, un minuto más tarde que el objetivo de Javi (minuto 17). Ese minuto hay que sacarlo de los WorkOuts con el nuevo reparto, no corriendo por debajo de 1:55.
-- **Donde más se puede ganar es en los runs 6–9**, que en el simulacro se hundieron (2:12–2:31).
+Total del simulacro: **36:12**.
