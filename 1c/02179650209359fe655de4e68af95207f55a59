@@ -1,0 +1,19 @@
+strong-race-ejercicios.md
+  s_6c01e1b83f8594::t_eb342b4dd05d47 24-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1c02179650209359fe655de4e68af95207f55a59",
+  "prompts": {},
+  "sessions": {
+    "s_6c01e1b83f8594": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6ca933ef-bef8-478e-aa28-07d2b451cf49",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Raul Adamuz <radamuzc@gmail.com>"
+    }
+  }
+}
