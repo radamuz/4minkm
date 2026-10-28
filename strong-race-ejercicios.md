@@ -25,7 +25,7 @@
 
 ## Reparto con Javi (carrera oficial)
 
-> Acordado por WhatsApp el 28/10/2026. Lo marcado como *pendiente* aún no está cerrado.
+> Acordado por WhatsApp el 28/10/2026.
 
 ### Ritmo en los runs
 
@@ -37,13 +37,13 @@
 
 | WorkOut | Ejercicio | Reparto |
 |---|---|---|
-| 1 | Reverse Lunge (40) | *Pendiente.* Javi se ofreció a hacer 30 zancadas. |
+| 1 | Reverse Lunge (40) | Entra **Javi 30** → **Raúl 10** (sale Raúl). |
 | 2 | Air Bike (30 cal) | Entra **Javi 5** → **Raúl 15** → **Javi 10** (sale Javi). Pocos cambios, que se pierde tiempo. |
-| 3 | Step Over Box (40) | Hace más **Javi**. Reparto exacto *pendiente*. |
-| 4 | Sit Ups (40) | Hace más **Javi**. Reparto exacto *pendiente*. |
-| 5 | Wallballs (40) | Hace más **Raúl**. Reparto exacto *pendiente*. |
-| 6 | SkiErg (500 m) | Hace más **Javi**. *Pendiente* elegir entre 250/250, 200/200/100 o 150/150/100/100. |
-| 7 | Farmer Carry (100 m) | Hace más **Raúl**. Reparto exacto *pendiente*. |
-| 8 | Row (500 m) | **250 / 250.** *Pendiente* quién entra primero. |
-| 9 | DeadBall (40) | *Pendiente.* |
-| 10 | DumbBell Burpees (30) | *Pendiente.* |
+| 3 | Step Over Box (40) | Bloques de **10** alternos, 20 cada uno. Da igual quién entre y quién salga. |
+| 4 | Sit Ups (40) | Entra **Javi 25** → **Raúl 15** (sale Raúl). |
+| 5 | Wallballs (40) | Entra **Raúl 25** → **Javi 15** (sale Javi). |
+| 6 | SkiErg (500 m) | Entra **Javi 200** → **Raúl 200** → **Javi 100** (sale Javi). |
+| 7 | Farmer Carry (100 m) | Entra **Raúl 60 m** → **Javi 40 m** (sale Javi). |
+| 8 | Row (500 m) | Entra **Raúl 250** → **Javi 250** (sale Javi). |
+| 9 | DeadBall (40) | Entra **Javi 10** → **Raúl 10** → **Javi 10** → **Raúl 10** (sale Raúl). |
+| 10 | DumbBell Burpees (30) | Entra **Raúl 10** → **Javi 10** → **Raúl 5** → **Javi 5** (sale Javi). |
