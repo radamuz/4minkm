@@ -83,6 +83,12 @@ Comparar el híbrido o las pachangas de un viernes con el anterior **no mide la 
 - **Sensación de "100 %" frente al pulso**: en el tempo del 25/10 la sensación fue máxima, pero el pulso se quedó en 172–180 (umbral). Con fatiga acumulada la sensación sube antes que el pulso: no concluyas que el umbral ha empeorado.
 - Para comparar rodajes en Z2, el paseo marítimo (inicio ~39,555, 2,695) es la ruta de referencia: llano (DEM 0–9 m).
 
+### 7. Una carrera híbrida marcada como test (detectado el 05/11 en KM)
+
+- La **Mega Hyathlon** (03/10) estaba marcada como test en KM. Su "mejor 5 km" (30:45, con ejercicios entre medias) entró en la proyección junto a 22:27 y 21:15 y aplanó la tendencia: el entrenador de KM llegó a decir "0 s/semana de mejora".
+- **Regla**: una carrera híbrida **nunca** es un test de 5 km (ver error 4). En KM, la proyección ya ignora los entrenos con tramos y los tests más de un 12 % peores que la mejor marca.
+- Relacionado: un .fit exportado de Garmin sin nombre se titula "Carrera X km"; esa palabra sola no debe marcarlo como test.
+
 ## Cómo analizar un .fit nuevo (checklist)
 
 1. Pasar las horas a hora local (+2 h / +1 h).

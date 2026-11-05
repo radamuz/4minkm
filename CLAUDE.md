@@ -9,3 +9,9 @@ Plan de entrenamiento para bajar de 20' en 5 km (Jekyll, en español). Los entre
 - La cadencia del .fit es por pierna → ×2.
 - No saques conclusiones de forma comparando sesiones distintas.
 - Si detectas un error nuevo en los datos o en el análisis, añádelo a `notas-sobre-los-datos.md`.
+
+## Trabajar con Claude Code
+
+- **Límite de ~50.000 caracteres por mensaje**: si se pasa, el mensaje llega cortado y se pierde lo dictado. Antes de mandar un mensaje largo (dictado por voz), cópialo a un bloc de notas. Si llega cortado, dilo y pide el resto.
+- Este repositorio es **público**: las conversaciones con el entrenador de KM (`km/conversaciones/`) no se suben sin confirmarlo. La app KM (privada) es [moix-top/km](https://github.com/moix-top/km).
+- `km/` se genera con `scripts/sync-4minkm.ts` del repositorio de KM: no se edita a mano.
