@@ -59,3 +59,4 @@ Objetivo: **5 km en menos de 20 minutos (4:00 /km)** (día D: *strong race*, sá
 - [60' con 20' a 4:18 (25/10/2026)](entrenos-realizados-fits/20261025/60’%20con%2020’%20a%204:15%20en%20el%20medio.fit)
 - [Rodaje 6,4 km en Z2 (28/10/2026)](entrenos-realizados-fits/20261028/Carrera%206,4%20km.fit)
 - [Strides 1,2 km (28/10/2026)](entrenos-realizados-fits/20261028/Carrera%201,2%20km.fit)
+- [Strong Race con Javi: 38:22, 81.º de 539 (07/11/2026)](entrenos-realizados-fits/20261107/Strong%20Race%20con%20Javi-%2038-22%20(81-539).fit)

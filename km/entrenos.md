@@ -1,6 +1,6 @@
-# Entrenos (61)
+# Entrenos (72)
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-05 21:26 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:55 UTC. No editar a mano: se sobrescribe.
 
 ## vie 03/07/2026 · Calistenia 1: Introducción a la Calistenia
 
@@ -1204,4 +1204,142 @@ análisis previo: # Análisis: 40' Z2 + 6 strides (28/10)
 | **Strides** | 7:15/km medio, picos a 5:15–4:27 /km | Buenos: aceleración clara en los 4 tramos (~20 s cada uno) |
 | **Cadencia (Z2)** | 158 spm | ✅ Excelente: ya en rango objetivo (170 es la meta para el velódromo) |
 | **Cadencia (strides)** | 130
+```
+
+## jue 29/10/2026 · Carrera 4,4 km
+
+```
+jue 29/10 18:38 · Carrera 4,4 km · 4.40 km 23:26 5:19/km · FC 150 · cad 138 · mejor 1k 3:57 · 3 tramos (mejor 4:03/km) · [id 4clyaBjc8j8]
+zonas % (Z2/medio/umbral/VO2) 28/55/17/0 con límites 150/172/185
+km: 1:4:05@151/172 2:4:09@167/165 3:5:30@142/150 4:5:02@150/162 5:7:44@143/125
+vueltas del reloj: 1:4:06/1000m@156 2:4:09/1000m@167 3:3:00/157m@114 4:3:58/1000m@161 5:2:00/61m@127 6:4:01/1000m@164 7:2:00/163m@131 8:0:12/19m@106
+tramos de carrera (por cadencia): 1:8:25/2015m (4:11/km, FC 160/173, pausa 2:48) 2:4:09/1018m (4:05/km, FC 159/174, pausa 1:49) 3:4:05/1010m (4:03/km, FC 162/177, pausa —)
+mejores tramos continuos: 1k 3:57 3k 13:44
+desnivel (modelo del terreno): +2 m, neto 3 m, 0–7 m
+tiempo: 22 °C, 69 % humedad, viento 10 km/h
+esfuerzo marcado en el reloj: 6/10
+avisos de datos: Entreno fragmentado: los tramos de carrera se han separado por cadencia (≥ 140 spm); cada tramo ±10–15 s.
+```
+
+## dom 01/11/2026 · Carrera 7,2 km
+
+```
+dom 01/11 08:37 · Carrera 7,2 km · 7.22 km 45:01 6:14/km · FC 137 · cad 160 · mejor 1k 5:26 · mejor 5k 30:44 · Z2 · [id YjQ19I00mqE]
+zonas % (Z2/medio/umbral/VO2) 98/2/0/0 con límites 150/172/185
+km: 1:5:42@128/161 2:6:03@139/159 3:6:21@137/161 4:6:16@141/166 5:6:22@137/162 6:7:05@140/160 7:5:43@138/163 8:6:28@122/159
+vueltas del reloj: 1:5:43/1000m@129 2:6:03/1000m@141 3:6:22/1000m@137 4:6:17/1000m@141 5:6:22/1000m@139 6:7:05/1000m@140 7:5:43/1000m@138 8:1:25/219m@122
+mejores tramos continuos: 1k 5:26 3k 18:04 5k 30:44
+desnivel (modelo del terreno): +106 m, neto -2 m, 609–706 m
+tiempo: 11 °C, 90 % humedad, viento 6 km/h
+```
+
+## lun 02/11/2026 · Carrera 2,0 km
+
+```
+lun 02/11 17:34 · Carrera 2,0 km · 2.00 km 13:38 6:49/km · FC 123 · cad 144 · mejor 1k 6:00 · [id N3Y4-8UVp24]
+zonas % (Z2/medio/umbral/VO2) 97/3/0/0 con límites 150/172/185
+km: 1:6:15@123/160 2:6:55@126/147
+vueltas del reloj: 1:6:16/1000m@123 2:1:46/277m@126 3:0:24/99m@133 4:0:54/107m@130 5:0:20/89m@126 6:1:03/132m@134 7:0:23/104m@134 8:2:32/192m@107
+mejores tramos continuos: 1k 6:00
+desnivel (modelo del terreno): +2 m, neto -4 m, 0–9 m
+tiempo: 19 °C, 54 % humedad, viento 12 km/h
+```
+
+## lun 02/11/2026 · Carrera 4,4 km
+
+```
+lun 02/11 17:50 · Carrera 4,4 km · 4.37 km 23:05 5:17/km · FC 149 · cad 130 · mejor 1k 3:56 · 4 tramos (mejor 3:58/km) · [id eLe84_d5LKk]
+zonas % (Z2/medio/umbral/VO2) 35/49/16/0 con límites 150/172/185
+km: 1:3:57@150/171 2:5:25@138/154 3:5:33@143/154 4:5:32@145/167 5:5:51@157/137
+vueltas del reloj: 1:3:57/1000m@155 2:2:00/138m@117 3:3:59/1000m@157 4:2:00/83m@120 5:3:58/1000m@161 6:2:00/32m@123 7:3:59/1000m@164 8:1:11/114m@146
+tramos de carrera (por cadencia): 1:4:02/1017m (3:58/km, FC 152/166, pausa 1:55) 2:4:01/1006m (4:00/km, FC 153/170, pausa 1:59) 3:4:03/1008m (4:01/km, FC 161/176, pausa 1:55) 4:4:05/1004m (4:04/km, FC 161/175, pausa —)
+mejores tramos continuos: 1k 3:56 3k 15:00
+desnivel (modelo del terreno): +2 m, neto 0 m, 0–7 m
+tiempo: 19 °C, 54 % humedad, viento 12 km/h
+avisos de datos: Entreno fragmentado: los tramos de carrera se han separado por cadencia (≥ 140 spm); cada tramo ±10–15 s.
+```
+
+## mar 03/11/2026 · Carrera 5,0 km
+
+```
+mar 03/11 18:54 · Carrera 5,0 km · 5.03 km 30:37 6:05/km · FC 131 · cad 162 · mejor 1k 5:47 · mejor 5k 30:12 · Z2 · [id ZNqQRWe1dQ8]
+zonas % (Z2/medio/umbral/VO2) 100/0/0/0 con límites 150/172/185
+km: 1:6:03@128/164 2:6:11@130/164 3:5:48@134/164 4:5:55@133/162 5:6:18@131/161
+vueltas del reloj: 1:6:02/1000m@128 2:6:12/1000m@130 3:5:48/1000m@133 4:5:55/1000m@133 5:6:19/1000m@131 6:0:21/31m@133
+mejores tramos continuos: 1k 5:47 3k 17:50 5k 30:12
+desnivel (modelo del terreno): +7 m, neto -4 m, 0–9 m
+tiempo: 15 °C, 80 % humedad, viento 9 km/h
+avisos de datos: El total marca 5.03 km: para una distancia exacta, suma las vueltas de 1 km.
+```
+
+## mar 03/11/2026 · Carrera 0,8 km
+
+```
+mar 03/11 19:26 · Carrera 0,8 km · 0.80 km 6:22 7:57/km · FC 120 · cad 108 · [id nWMXnDzVaho]
+zonas % (Z2/medio/umbral/VO2) 92/8/0/0 con límites 150/172/185
+km: 1:7:58@121/136
+vueltas del reloj: 1:0:26/102m@118 2:1:21/99m@115 3:0:23/94m@117 4:1:06/103m@122 5:0:24/98m@120 6:1:09/101m@123 7:0:24/103m@120 8:1:09/101m@121
+desnivel (modelo del terreno): +0 m, neto 2 m, 3–7 m
+tiempo: 15 °C, 83 % humedad, viento 12 km/h
+```
+
+## mié 04/11/2026 · Carrera 1,4 km
+
+```
+mié 04/11 17:47 · Carrera 1,4 km · 1.43 km 7:16 5:05/km · FC 152 · cad 140 · mejor 1k 4:53 · 3 tramos (mejor 3:25/km) · [id yYAnKDSbDus]
+zonas % (Z2/medio/umbral/VO2) 36/63/1/0 con límites 150/172/185
+km: 1:4:57@147/156 2:5:26@152/152
+vueltas del reloj: 1:1:23/400m@153 2:1:00/86m@148 3:1:23/400m@159 4:1:00/69m@144 5:1:27/400m@159 6:1:00/73m@147 7:0:04/2m@114
+tramos de carrera (por cadencia): 1:1:29/416m (3:34/km, FC 150/169, pausa 0:51) 2:1:21/396m (3:25/km, FC 160/169, pausa 1:04) 3:1:26/404m (3:33/km, FC 159/172, pausa —)
+mejores tramos continuos: 1k 4:53
+desnivel (modelo del terreno): +0 m, neto -1 m, 0–5 m
+tiempo: 19 °C, 65 % humedad, viento 13 km/h
+esfuerzo marcado en el reloj: 8/10
+avisos de datos: Entreno fragmentado: los tramos de carrera se han separado por cadencia (≥ 140 spm); cada tramo ±10–15 s.
+```
+
+## mié 04/11/2026 · Carrera 1,4 km
+
+```
+mié 04/11 17:55 · Carrera 1,4 km · 1.37 km 9:16 6:46/km · FC 128 · cad 154 · mejor 1k 6:27 · [id 0Lghbhn8gA0]
+zonas % (Z2/medio/umbral/VO2) 100/0/0/0 con límites 150/172/185
+km: 1:6:58@125/157 2:6:13@135/159
+vueltas del reloj: 1:6:58/1000m@125 2:2:18/370m@135
+mejores tramos continuos: 1k 6:27
+desnivel (modelo del terreno): +3 m, neto 2 m, 2–6 m
+tiempo: 19 °C, 65 % humedad, viento 13 km/h
+```
+
+## jue 05/11/2026 · Carrera 3,3 km
+
+```
+jue 05/11 18:30 · Carrera 3,3 km · 3.30 km 20:03 6:04/km · FC 135 · cad 160 · mejor 1k 5:52 · Z2 · [id zQW4cZCqQkQ]
+zonas % (Z2/medio/umbral/VO2) 100/0/0/0 con límites 150/172/185
+km: 1:5:56@132/162 2:6:06@135/159 3:6:01@137/160 4:6:16@139/158
+vueltas del reloj: 1:5:57/1000m@133 2:3:53/637m@135 3:2:30/406m@135 4:6:01/1000m@137 5:1:42/261m@139
+mejores tramos continuos: 1k 5:52 3k 18:00
+desnivel (modelo del terreno): +8 m, neto 1 m, 0–9 m
+tiempo: 19 °C, 73 % humedad, viento 2 km/h
+```
+
+## jue 05/11/2026 · Carrera 0,7 km
+
+```
+jue 05/11 18:56 · Carrera 0,7 km · 0.70 km 6:36 9:27/km · FC 127 · cad 90 · [id mQAbQ1_s7sw]
+zonas % (Z2/medio/umbral/VO2) 87/13/0/0 con límites 150/172/185
+km: 1:8:30@130/153
+vueltas del reloj: 1:0:24/101m@128 2:1:01/94m@130 3:0:23/107m@129 4:0:58/106m@138 5:0:27/112m@138 6:3:22/179m@122
+desnivel (modelo del terreno): +0 m, neto -3 m, 3–7 m
+tiempo: 19 °C, 73 % humedad, viento 2 km/h
+```
+
+## sáb 07/11/2026 · Strong Race con Javi: 38:22 (81/539)
+
+```
+sáb 07/11 08:35 · Strong Race con Javi: 38:22 (81/539) · bajo techo 38:37 · FC 176 · cad 116 · 9 tramos (mejor 3:33/km) · DURA · [id fO2vg7Y3VHo]
+zonas % (Z2/medio/umbral/VO2) 2/20/72/6 con límites 150/172/185
+vueltas del reloj: 1:1:57/521m@166 2:0:51/29m@172 3:3:40/663m@178 4:3:27/523m@179 5:1:59/470m@180 6:1:34/65m@163 7:2:22/500m@179 8:1:27/0m@178 9:2:30/460m@182 10:1:57/30m@168 11:3:00/567m@178 12:2:54/540m@182 13:2:07/93m@155 14:3:57/538m@179 15:2:35/533m@183 16:2:22/27m@171
+tramos de carrera (por cadencia): 1:1:48/506m (3:33/km, FC 160/176, pausa 1:06) 2:2:29/585m (4:15/km, FC 177/186, pausa 1:15) 3:5:15/974m (5:23/km, FC 179/183, pausa 1:42) 4:1:59/464m (4:16/km, FC 179/184, pausa 1:56) 5:2:07/438m (4:50/km, FC 182/183, pausa 2:13) 6:2:08/477m (4:28/km, FC 177/181, pausa 0:23) 7:3:10/580m (5:28/km, FC 183/187, pausa 1:29) 8:3:03/595m (5:08/km, FC 173/184, pausa 1:49) 9:2:09/501m (4:17/km, FC 184/185, pausa —)
+sensaciones: Muy buena sensación general. Noche corta (desvelado desde ~03:50). Carga en la rodilla izquierda los últimos días.
+avisos de datos: Sin GPS (bajo techo): la distancia y el ritmo no son fiables; cuentan el tiempo y el pulso. | Entreno fragmentado: los tramos de carrera se han separado por cadencia (≥ 140 spm); cada tramo ±10–15 s.
 ```

@@ -1,6 +1,6 @@
 # Ajustes y datos físicos
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-05 21:26 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
 
 - FC máx: 199
 - Zonas: Z2 < 150 · umbral 172–185 · VO2max > 185

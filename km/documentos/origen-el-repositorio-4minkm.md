@@ -1,6 +1,6 @@
 # Origen: el repositorio 4minkm
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-05 21:26 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
 
 KM nació del repositorio **4minkm** (github.com/radamuz/4minkm): un plan en Markdown, .fit subidos a mano y análisis con Claude Code en el terminal.
 

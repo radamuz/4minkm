@@ -1,6 +1,6 @@
 # Plan
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-05 21:26 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
 
 ## 2026-07
 
@@ -112,17 +112,17 @@
 | lun 26/10 | descanso, o 30' corriendo muy suave (< 145) si las agujetas lo permiten | easy | skipped | Agujetas profundas tras tempo duro del 25/10; necesitas llegar fresco al 3×1600 m del martes |
 | mar 27/10 | 3×1600 m a 4:05, rec | other | done |  |
 | mié 28/10 | 40' corriendo en Z2 + 6 strides | easy | done |  |
-| jue 29/10 | 2 km a 4:10 + 3' corriendo suave + 2×1 km a 4:00, rec | intervals | planned |  |
+| jue 29/10 | 2 km a 4:10 + 3' corriendo suave + 2×1 km a 4:00, rec | intervals | done |  |
 | vie 30/10 | híbrido corto (40') + pachangas suaves | hybrid | skipped | No puedes entrenar ese día; mejor descansar a una semana de la Strong Race |
-| dom 01/11 | 45' corriendo en Z2 | easy | planned |  |
+| dom 01/11 | 45' corriendo en Z2 | easy | done |  |
 
 ## Semana 7 · 2–8 nov
 
 | Día | Sesión | Tipo | Estado | Resultado |
 |---|---|---|---|---|
-| lun 02/11 | 4×1000 m a 4:00, rec | intervals | planned |  |
-| mar 03/11 | 30' corriendo en Z2 + 4 strides · calistenia muy ligera (nada de piernas) | easy | planned |  |
-| mié 04/11 | 3×400 m a 3:50 + 15' corriendo suave | intervals | planned |  |
-| jue 05/11 | 20' corriendo muy suave + 3 strides | easy | planned |  |
-| vie 06/11 | sin híbrido y sin pachangas | hybrid | planned |  |
-| sáb 07/11 | strong race con Javi, categoría open masculina (franja de 08:00 a 11:30; ver apartado 5) | race | planned |  |
+| lun 02/11 | 4×1000 m a 4:00, rec | intervals | done |  |
+| mar 03/11 | 30' corriendo en Z2 + 4 strides · calistenia muy ligera (nada de piernas) | easy | done |  |
+| mié 04/11 | 3×400 m a 3:50 + 15' corriendo suave | intervals | done |  |
+| jue 05/11 | 20' corriendo muy suave + 3 strides | easy | done |  |
+| vie 06/11 | Víspera Strong Race: descanso o 15' muy suave + 3 strides · sin híbrido ni pachangas | rest | planned |  |
+| sáb 07/11 | Strong Race con Javi, open masculina · SALIDA 08:35 | race | done | 38:22 · 81/539 · 23/121 GGEE. Fuertes: zancadas (19.º), step over (32.º), granjero (37.º), deadball (37.º). Flojos: air bike, wallballs, run 8, remo. |

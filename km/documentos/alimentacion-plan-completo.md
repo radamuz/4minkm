@@ -1,6 +1,6 @@
 # Alimentación (plan completo)
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-05 21:26 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
 
 # Alimentación para el plan 4minkm
 

@@ -1,6 +1,6 @@
 # Calendario de carreras (4minkm)
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-05 21:26 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
 
 - Domingo 27 de septiembre de 2026, simulación de la strong race con Javi Gallardo
 - Sábado 3 de octubre de 2026, 
