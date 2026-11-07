@@ -1,15 +1,16 @@
 # KM → 4minkm
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:55 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 23:12 UTC. No editar a mano: se sobrescribe.
 
 Copia de lo que hay en la cuenta de KM, para comparar el entrenador de KM con el trabajo hecho en este repositorio.
 
-- [Conversaciones con el entrenador](#conversaciones) (7)
-- [Plan](plan.md) · [Diario](diario.md) · [Carreras](carreras.md) · [Objetivos](objetivos.md) · [Ajustes](ajustes.md)
+- [Conversaciones con el entrenador](#conversaciones) (8)
+- [Plan](plan.md) · [Diario](diario.md) · [Sueño](sueno.md) · [Carreras](carreras.md) · [Objetivos](objetivos.md) · [Ajustes](ajustes.md)
 - [Entrenos](entrenos.md) (72) · documentos en [documentos/](documentos/)
 
 ## Conversaciones
 
+- [quieres el análisis de la carrera limpio](conversaciones/2026-11-07-quieres-el-analisis-de-la-carrera-limpio.md) · 2 mensajes · 2026-11-07
 - [Sensaciones de estos días. Los primeros días que te paso…](conversaciones/2026-11-07-sensaciones-de-estos-dias-los-primeros-dias-que-te-paso.md) · 4 mensajes · 2026-11-07
 - [Mañana como albóndigas con arroz dime que desayunar](conversaciones/2026-11-05-manana-como-albondigas-con-arroz-dime-que-desayunar.md) · 28 mensajes · 2026-11-07
 - [Son las 19 y estoy lleno](conversaciones/2026-11-06-son-las-19-y-estoy-lleno.md) · 2 mensajes · 2026-11-06

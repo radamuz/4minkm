@@ -1,6 +1,6 @@
 # Alimentación
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 23:12 UTC. No editar a mano: se sobrescribe.
 
 Guía completa: https://radamuz.github.io/alimentacion/
 

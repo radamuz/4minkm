@@ -1,6 +1,6 @@
 # Entrenos (72)
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:55 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 23:12 UTC. No editar a mano: se sobrescribe.
 
 ## vie 03/07/2026 · Calistenia 1: Introducción a la Calistenia
 
@@ -1342,4 +1342,9 @@ vueltas del reloj: 1:1:57/521m@166 2:0:51/29m@172 3:3:40/663m@178 4:3:27/523m@17
 tramos de carrera (por cadencia): 1:1:48/506m (3:33/km, FC 160/176, pausa 1:06) 2:2:29/585m (4:15/km, FC 177/186, pausa 1:15) 3:5:15/974m (5:23/km, FC 179/183, pausa 1:42) 4:1:59/464m (4:16/km, FC 179/184, pausa 1:56) 5:2:07/438m (4:50/km, FC 182/183, pausa 2:13) 6:2:08/477m (4:28/km, FC 177/181, pausa 0:23) 7:3:10/580m (5:28/km, FC 183/187, pausa 1:29) 8:3:03/595m (5:08/km, FC 173/184, pausa 1:49) 9:2:09/501m (4:17/km, FC 184/185, pausa —)
 sensaciones: Muy buena sensación general. Noche corta (desvelado desde ~03:50). Carga en la rodilla izquierda los últimos días.
 avisos de datos: Sin GPS (bajo techo): la distancia y el ritmo no son fiables; cuentan el tiempo y el pulso. | Entreno fragmentado: los tramos de carrera se han separado por cadencia (≥ 140 spm); cada tramo ±10–15 s.
+análisis previo: **Buena carrera: 38:22, 81.º de 539.** Corriste más lento de lo previsto y lo compensaste de sobra en los ejercicios.
+
+- **Runs ≈21:04** frente a ~20:20 planificados (+0:45). **Ejercicios ≈17:10** frente a ~18:40 (−1:30). Las estaciones fueron tu punto fuerte: zancadas 19.º, step over, granjero y deadball.
+- **Salida**: el tramo 1 sale a ~1:48 por cadencia (±10–15 s), por debajo de la línea roja de 1:55. Aun así, con **FC 160** estaba controlado y esta vez no te hundiste.
+- **Pulso**: 72 % en umbral y medias de 177–184 desde el run 2. Sostenido, sin desplomarte. Run 7 y 8 lentos tras granjero 
 ```

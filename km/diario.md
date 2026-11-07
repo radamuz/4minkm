@@ -1,6 +1,6 @@
 # Diario
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 23:12 UTC. No editar a mano: se sobrescribe.
 
 - **vie 25/09/2026** [general] Pachangas: el reloj se cortó a los 30' y no hay pulso. Para la carga se estima ×2 (≈1 h, ≈3,2 km).
 - **vie 02/10/2026** [nutrition] Comilona la víspera del Mega Hyathlon (porcella, frito mallorquín, alioli, pudding y chupito). Al día siguiente, sensación de pesadez.

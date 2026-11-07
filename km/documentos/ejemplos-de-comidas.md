@@ -1,6 +1,6 @@
 # Ejemplos de comidas
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 23:12 UTC. No editar a mano: se sobrescribe.
 
 # Ejemplos de comidas (63 kg, objetivo sub-20 en 5 km)
 

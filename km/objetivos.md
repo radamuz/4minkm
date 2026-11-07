@@ -1,6 +1,6 @@
 # Objetivos
 
-> Sincronizado desde KM (km.moix.top) el 2026-11-07 22:54 UTC. No editar a mano: se sobrescribe.
+> Sincronizado desde KM (km.moix.top) el 2026-11-07 23:12 UTC. No editar a mano: se sobrescribe.
 
 ## 5 km en menos de 20:00 (4:00 /km) (principal, active)
 
